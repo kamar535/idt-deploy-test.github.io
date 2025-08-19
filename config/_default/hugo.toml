@@ -28,7 +28,7 @@ defaultContentLanguage = 'sv'
             unsafe = true
 
 
-# https://gohugo.io/host-and-deploy/host-on-github-pages/#step-5
-[caches]
-    [caches.images]
-        dir = ':cacheDir/images'
+            # https://gohugo.io/host-and-deploy/host-on-github-pages/#step-5
+            # [caches]
+            #    [caches.images]
+            #        dir = ':cacheDir/images'
