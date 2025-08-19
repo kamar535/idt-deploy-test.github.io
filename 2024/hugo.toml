@@ -10,6 +10,7 @@ defaultContentLanguageInSubdir = false
 # disableDefaultLanguageRedirect = false
 disableLanguages = []
 
+publishDir = "public/2024"
 
 languageCode = 'en-us'
 
