@@ -38,10 +38,10 @@ languageCode = 'en-us'
     #   target = "content"
     [[module.mounts]]
         source = "2024/static/images"
-        target = "static/images"
-    [[module.mounts]]
-        source = "2024/static/terminal"
-        target = "static/terminal"
+        target = "static/2024/images"
+        # [[module.mounts]]
+        #    source = "2024/static/terminal"
+        #   target = "static/terminal"
 
 [languages]
     [languages.sv]
