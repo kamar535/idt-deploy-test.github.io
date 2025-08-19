@@ -2,6 +2,9 @@ baseURL = 'https://kamar535.github.io/idt-deploy-test.github.io/'
 
 defaultContentLanguage = 'sv'
 
+# https://mcshelby.github.io/hugo-theme-relearn/configuration/sitemanagement/deployment/index.html#public-web-server-from-subdirectory
+relativeURLs = false
+
 # languageCode = 'en-us'
 # languageCode = 'de-DE'
 #title = 'Introduktion till datorer 2025'
