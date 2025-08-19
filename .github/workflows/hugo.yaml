@@ -90,7 +90,7 @@ jobs:
        #     --minify \
        #     --baseURL "${{ steps.pages.outputs.base_url }}/" \
        #     --cacheDir "${{ runner.temp }}/hugo_cache" \
-       #   && \
+          && \
           hugo \
             --gc \
             --minify \
