@@ -1,0 +1,53 @@
+baseURL = 'https://introduktion-till-datorer.github.io/2024/'
+
+title = 'Introduktion till datorer 2024'
+
+defaultContentLanguage = "sv"
+defaultContentLanguageInSubdir = false
+# disableDefaultLanguageRedirect = false
+disableLanguages = []
+
+
+languageCode = 'en-us'
+
+
+# publishDir = 'public/2024/'
+
+# Do not set theme here when using modules. 
+
+# theme = 'hugo-theme-relearn'
+
+# theme = ["github.com/theNewDynamic/gohugo-theme-ananke/v2"]
+
+# theme = "PaperMod"
+
+
+[params]
+    year = 2024
+
+    # Modules on the bottom will get loaded first, so keep anything you don’t want
+    # overridden higher up in the module chain. All conflicting files during module
+    # import will use the last file loaded. 
+
+[module]
+    # [[module.mounts]]
+    #    source = "2024/content"
+    #   target = "content"
+    [[module.mounts]]
+        source = "2024/static/images"
+        target = "static/images"
+    [[module.mounts]]
+        source = "2024/static/terminal"
+        target = "static/terminal"
+
+[languages]
+    [languages.sv]
+        contentDir = '2024/content/swedish'
+        #   baseURL = 'https://introduktion-till-datorer.github.io/2024/'
+        languageName = 'Svenska'
+        weight = 10
+    [languages.en]
+        contentDir = '2024/content/english'
+        # baseURL = 'https://introduktion-till-datorer.github.io/2024/en'
+        languageName = 'English'
+        weight = 20

@@ -1,0 +1,261 @@
+h1,
+#header {
+    text-transform: none;
+    font-family: "Work Sans", "Helvetica", "Tahoma", "Geneva", "Arial", sans-serif;
+    font-weight: bold;
+}
+
+#header a .course {
+    font-size: 1.3em;
+    color: white;
+}
+
+#header a .semester {
+    font-size: 1em;
+    font-weight: normal;
+    color: lightgray;
+}
+
+#header a:hover {
+    -webkit-transform: scale(1.1);
+}
+
+#header-wrapper {
+    background-image: url("images/uu-sigill.png");
+    background-repeat: no-repeat;
+    background-position: bottom left;
+    background-size: 140px;
+
+
+}
+
+#body-inner a {
+    font-weight: 555;
+}
+
+#body-inner a[target='_blank']{
+    color: #f31c1c;
+}
+
+
+ul.topics i {
+    padding-right: 1rem;
+    width: 2.4rem;
+    text-align: center;
+    font-size: 1.3rem;
+}
+
+figure.border img {
+    border:2px solid darkgray;
+}
+
+#toc-menu .fa-list-alt {
+    color: #00bdf3;
+}
+
+#toc-menu {
+    border-right-width: 0px !important;
+}
+
+#sidebar-toggle-span {
+    border-right: 0px solid #DAD8D8 !important;
+    padding-right: 0.5rem !important;
+    margin-right: 1rem !important;
+
+}
+#breadcrumbs i.fa.fa-angle-right {
+    color: #d5d0d0;
+    font-weight: bold;
+    font-size: 1.4rem;
+    vertical-align: -2px;
+
+}
+
+table th, table td {
+    border: 1px solid #e1e4e5;
+
+}
+
+table th {
+    border-bottom: 4px solid orange;
+    background-color: white;
+    vertical-align: bottom;
+
+}
+
+th.upper-left-empty {
+    border-left: 1px solid white;
+    border-top: 1px solid white;
+}
+
+table tr.header-no-bottom-border th {
+    border-bottom: none;
+}
+
+tr:nth-child(2n-1) td {
+    background-color: #f3f6f6;
+
+}
+
+table.center td,
+table.center th {
+    text-align: center;
+}
+
+div.note {
+    margin-top: 2rem;
+
+}
+
+div.note p:empty + ul {
+    margin-top: 1rem;
+
+}
+div.note ul +  p:empty {
+    margin-top: -1rem;
+
+}
+
+div.note {
+
+    background: #E7F2FA;
+    padding-bottom: 2px;
+    margin-bottom: 2rem;
+
+}
+
+div.note.tip {
+    background: #E6F9E6;
+
+}
+
+div.note.warning {
+    background-color: rgb(250, 226, 226);
+
+}
+
+div.note.warning p.title {
+    background: rgba(217, 83, 79, 0.8);
+
+}
+
+
+div.note  p.title {
+    background-color: #6AB0DE;
+    color: white;
+    padding-left: 15px;
+    padding-left: 15px;
+
+    padding-top: 2px;
+    padding-bottom: 2px;
+
+}
+
+
+div.note.tip p.title {
+    background-color: #f0b37e;
+
+}
+
+div.note p {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-bottom: 1rem;
+
+}
+
+.progress {
+    border-width: 3px;
+    background-color: rgb(246, 246, 246);
+}
+
+code {
+    padding-bottom: 1px;
+    padding-top: 2px;
+}
+
+pre, code {
+    font-family: Monaco,Menlo,Consolas,"Courier New",monospace;
+}
+
+code {
+    vertical-align: baseline;
+    font-size: 0.85rem;
+    padding: 2px 4px;
+    color: #d14;
+    border-radius: 3px;
+    border: 1px solid #e1e1e8;
+    white-space: nowrap;
+    font-weight: 100;
+}
+
+table code {
+    font-size: 0.8rem;
+    background-color: transparent;
+    border: none;
+}
+
+pre {
+    background-color: #322b38;
+    border-radius: 5px;
+}
+
+pre code {
+    font-size: 0.8rem;G
+    line-height: 1.6;
+}
+
+pre .copy-to-clipboard {
+    position: absolute;
+    right: 14px;
+    top: 14px;
+}
+
+dl dt {
+    font-weight: bold;
+}
+
+th[align="center"] {
+    text-align: center;
+}
+
+.small-table + table {
+    width: auto;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+div.menu-icon, div.menu-item {
+        box-sizing: border-box;
+}
+
+div.menu-icon {
+    float: left;
+    /* NOTE: must have a border for the divs to float correctly, hence the transparent border. */
+    border: 1px solid transparent;
+}
+
+div.menu-item {
+}
+
+
+body[data-url="/tutoring/"] table td:nth-child(1) img,
+body[data-url="/eng/"] table td:nth-child(1) img
+{
+    margin-top: 5px !important;
+    margin-bottom: 5px !important;
+}
+
+body[data-url="/tutoring/"] table td:nth-child(1),
+body[data-url="/eng/"] table td:nth-child(1)
+{
+    width: 140px;
+
+}
+
+body[data-url="/tutoring/"] table td:nth-child(3),
+body[data-url="/eng/"] table td:nth-child(3)
+{
+    width: 6em;
+
+}

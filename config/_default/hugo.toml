@@ -1,0 +1,27 @@
+baseURL = 'https://introduktion-till-datorer.github.io/'
+
+defaultContentLanguage = 'sv'
+
+# languageCode = 'en-us'
+# languageCode = 'de-DE'
+#title = 'Introduktion till datorer 2025'
+
+# Do not set theme here when using modules. 
+
+# Modules on the bottom will get loaded first, so keep anything you don’t want
+# overridden higher up in the module chain. All conflicting files during module
+# import will use the last file loaded. 
+
+[module]
+    [[module.imports]]
+        path = "github.com/kamar535/hugo-theme-relearn-tweaks"
+    [[module.imports]]
+        path = "github.com/McShelby/hugo-theme-relearn"
+
+
+[markup]
+    [markup.goldmark]
+        [markup.goldmark.renderer]
+            #  Whether to render raw HTML mixed within Markdown. This is unsafe unless the content 
+            # is under your control. Default is false.
+            unsafe = true

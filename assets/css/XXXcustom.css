@@ -1,0 +1,24 @@
+
+#R-header  {
+    font-size: 1.4em;
+}
+
+
+
+#R-body table a.lightbox-link img.tutor {
+    width: 140px !important;
+    margin-top: 5px !important;
+    margin-bottom: 5px !important;
+}
+
+body[data-url="/tutoring/"] table td:nth-child(3),
+body[data-url="/eng/"] table td:nth-child(3)
+{
+    width: 6em;
+
+}
+
+h4 {
+    font-size: 1.2em;
+    font-weight: 400;
+}

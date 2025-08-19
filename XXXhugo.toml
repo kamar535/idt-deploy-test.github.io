@@ -1,0 +1,84 @@
+baseURL = 'https://example.org/'
+# languageCode = 'en-us'
+languageCode = 'de-DE'
+title = 'Introduktion till datorer 2025'
+
+# theme = 'hugo-theme-relearn'
+
+# theme="beautifulhugo"
+
+# theme = ["github.com/theNewDynamic/gohugo-theme-ananke/v2"]
+
+# Modules on the bottom will get loaded first, so keep anything you don’t want
+# overridden higher up in the module chain. All conflicting files during module
+# import will use the last file loaded. 
+
+[module]
+    # [[module.imports]]
+    #    path = "github.com/halogenica/beautifulhugo"
+    [[module.imports]]
+        path = "github.com/kamar535/hugo-theme-relearn-tweaks"
+    [[module.imports]]
+        path = "github.com/McShelby/hugo-theme-relearn"
+
+# By default, Goldmark does not render raw HTML and potentially dangerous links. 
+# If you have lots of inline HTML and/or JavaScript, you may need to turn this on.
+
+[markup]
+    [markup.goldmark]
+        [markup.goldmark.renderer]
+            unsafe = true
+
+[outputs]
+  # home = ['html', 'rss', 'print']
+  # page = ['html', 'rss', 'print']
+  # section = ['html', 'rss', 'print']
+  home = ['html', 'rss']
+  page = ['html', 'rss']
+  section = ['html', 'rss']
+
+[params]
+    languageCode = 'de-DE'  
+    languageName = 'Deutsch'
+    themeVariant = ['dark', 'light']
+
+    title = "Introduktion till datorer"
+    year = 2025
+    disableLandingPageButton = true
+    collapsibleMenu = true
+    showVisitedLinks=true 
+    disableInlineCopyToClipBoard = false
+    disableRootBreadcrumb = true
+    # disableNextPrev = true
+    editURL = 'https://github.com/McShelby/hugo-theme-relearn/edit/main/docs/content/${FilePath}'
+    # additionalContentLanguage = []
+    disableLanguageSwitchingButton = true
+
+    githubIcon = "<i class='fab fa-github'></i>"
+
+    mandatoryIcon = "<i class='fa fa-exclamation-triangle'></i>"
+
+    higherGradeIcon = "<i class='fas fa-star'></i>"
+
+    sidebarheadermenus = []
+
+    [[params.sidebarfootermenus]]
+        type = 'divider'
+
+    [[params.sidebarfootermenus]]
+        type = 'custom'
+
+    [[params.sidebarfootermenus.elements]]
+      type = 'historyclearer'
+
+    [[params.sidebarfootermenus.elements]]
+      type = 'variantswitcher'
+
+
+   
+
+    [[params.sidebarmenus]]
+        type = 'page'
+
+
+ 
