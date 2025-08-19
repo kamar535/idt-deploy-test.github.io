@@ -79,7 +79,8 @@ jobs:
             hugo-
       - name: Build the site
         run: |
-          hugo mod get -u  \
+          hugo mod get github.com/kamar535/hugo-theme-relearn-tweaks@v0.0.0-20250819081232-8dfb3fd486e7 \
+          hugo mod get github.com/McShelby/hugo-theme-relearn@v0.0.0-20250601093205-4407b4364ab6 \
           && \
           hugo \
             --gc \
