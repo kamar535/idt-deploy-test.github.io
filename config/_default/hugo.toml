@@ -1,4 +1,5 @@
-baseURL = 'https://introduktion-till-datorer.github.io/'
+baseURL = 'https://idt-deploy-test.github.io/'
+
 
 defaultContentLanguage = 'sv'
 
