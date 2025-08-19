@@ -90,7 +90,7 @@ jobs:
             --minify \
             --baseURL "${{ steps.pages.outputs.base_url }}/2024" \
             --cacheDir "${{ runner.temp }}/hugo_cache/2024" \
-            --config="config/_default/hugo.toml 2024/hugo.toml" \
+            --config=2024/hugo.toml \
       - name: Cache save
         id: cache-save
         uses: actions/cache/save@v4
