@@ -26,3 +26,9 @@ defaultContentLanguage = 'sv'
             #  Whether to render raw HTML mixed within Markdown. This is unsafe unless the content 
             # is under your control. Default is false.
             unsafe = true
+
+
+# https://gohugo.io/host-and-deploy/host-on-github-pages/#step-5
+[caches]
+    [caches.images]
+        dir = ':cacheDir/images'
