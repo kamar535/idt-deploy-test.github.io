@@ -12,6 +12,8 @@ Hösten {{< year >}} ingår momentet Introduktion till datorer, även kallat Dat
 på följande utbildningar och introduktionskurser inom [vetenskapsområdet för teknik
 och naturvetenskap][teknat] vid [Uppsala universitet][uu].
 
+Hej!
+
 [uu]:       https://www.uu.se/
 [teknat]:   https://www.uu.se/student/fakultet/teknisk-naturvetenskapliga
 
