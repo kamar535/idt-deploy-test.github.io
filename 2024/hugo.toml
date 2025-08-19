@@ -1,5 +1,8 @@
 baseURL = 'https://kamar535.github.io/idt-deploy-test.github.io/2024'
 
+# https://mcshelby.github.io/hugo-theme-relearn/configuration/sitemanagement/deployment/index.html#public-web-server-from-subdirectory
+relativeURLs = false
+
 title = 'Introduktion till datorer 2024'
 
 defaultContentLanguage = "sv"
