@@ -37,8 +37,8 @@ languageCode = 'en-us'
     #    source = "2024/content"
     #   target = "content"
     [[module.mounts]]
-        source = "2024/static/images"
-        target = "static/2024/images"
+        # source = "2024/static/images"
+        # target = "static/2024/images"
         # [[module.mounts]]
         #    source = "2024/static/terminal"
         #   target = "static/terminal"
