@@ -83,12 +83,12 @@ jobs:
             --gc \
             --minify \
             --baseURL "${{ steps.pages.outputs.base_url }}/" \
-            --cacheDir "${{ runner.temp }}/hugo_cache"
-          &&
+            --cacheDir "${{ runner.temp }}/hugo_cache" \
+          && \
           hugo \
             --gc \
             --minify \
-            --cacheDir "${{ runner.temp }}/hugo_cache" 
+            --cacheDir "${{ runner.temp }}/hugo_cache" \
             --config=2024/hugo.toml \
       - name: Cache save
         id: cache-save
