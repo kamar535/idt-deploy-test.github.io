@@ -33,7 +33,7 @@ Before you start with the assignment, you should make the following preparations
 
 To the left of this page you see the following menu. 
 
-<img src="/images/studenttjanster/eng_studenttjanster_index.png" style="width: 333px"/>
+<img src="/images/2024/studenttjanster/eng_studenttjanster_index.png" style="width: 333px"/>
 
 Open the [Student services](../student-services) main page in a new browser window or in
 a new tab. If you haven't done so already, read all but the last page (this very
@@ -113,7 +113,7 @@ In TimeEdit you can find the schedule for all courses for which you are
 registered. When you set up to subscribe for a schedule, you will be presented
 with a subscription link.
 
-<img src="/images/studenttjanster/assignment/eng-subscribe.png">
+<img src="/images/2024/studenttjanster/assignment/eng-subscribe.png">
 
 Follow the steps to [subscribe to your schedule](../schedule). 
 

@@ -47,23 +47,23 @@ introduktionskurs sida i Studium.
 
 När du är inne på din kurs klickar du sedan på **Moduler** i menyn. 
 
-![](/images/studenttjanster/studium/kurs-meny-moduler.png)
+![](/images/2024/studenttjanster/studium/kurs-meny-moduler.png)
 
 Skrolla sedan ned tills du hittar modulen **Introduktion till datorer**. För
 **F** ser det ut så här. 
 
-![](/images/studenttjanster/studium/example-module.png)
+![](/images/2024/studenttjanster/studium/example-module.png)
 
 För **E/EI**, **I**, **IT**, **KandDv** och **W** kan det
 skilja vilka uppgifter ([moduler](/modules)) som ingår. Klicka på den uppgift du
 vill lämna in, till exempel **Studenttjänster**. Du kommer nu till en sida som
 bör se ut ungefär så här. 
 
-![](/images/studenttjanster/studium/studenttjanster-submit-1.png)
+![](/images/2024/studenttjanster/studium/studenttjanster-submit-1.png)
 
 Klicka på **Skicka uppgift**. 
 
-![](/images/studenttjanster/studium/studenttjanster-submit-2.png)
+![](/images/2024/studenttjanster/studium/studenttjanster-submit-2.png)
 
 Klicka på **Välj fil** för att välja den fil du vill lämna in. Du kan sedan
 välja att skriva en kommentar om du vill. Klicka slutligen på **Skicka uppgift**
@@ -76,7 +76,7 @@ ett avsnitt som heter Introduktion till datorer, UU.
 
 [canvas]: https://slu-se.instructure.com/courses/12163
 
-![](/images/submission-and-deadlines/canvas-uppgifter.png?width=555px)
+![](/images/2024/submission-and-deadlines/canvas-uppgifter.png?width=555px)
 
 Överst i detta avsnitt hittar du sidan **Översikt "Datorintroduktion"** med
 övergripande information och en länk till startsidan för den publika webbplatsen
@@ -85,11 +85,11 @@ nu. I avsnittet om Introduktion till datorer finns även sidor för de uppgifter
 som är obligatoriska för ES. När du klickar på en länk till en uppgift kommer du
 till en sida som ser ut som på bilden nedan.
 
-![](/images/submission-and-deadlines/canvas-studenttjanster.png?classes=border&width=666px)
+![](/images/2024/submission-and-deadlines/canvas-studenttjanster.png?classes=border&width=666px)
 
 När du gjort klart uppgiften lämnar du in den genom att klicka på **Lämna in uppgift**.
 
-![](/images/submission-and-deadlines/canvas-submit-file.png?classes=border&width=777px)
+![](/images/2024/submission-and-deadlines/canvas-submit-file.png?classes=border&width=777px)
 
 Tryck sedan på **Välj fil** (Choose file) för att ladda upp din inlämning.
 Klicka sedan på **Lämna in uppgift**.

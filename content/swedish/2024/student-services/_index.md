@@ -42,7 +42,7 @@ deadlines](/submission-and-deadlines).
 
 Till vänster ser du följande undermeny. 
 
-![](/images/studenttjanster/studenttjanster_index.png?width=333px)
+![](/images/2024/studenttjanster/studenttjanster_index.png?width=333px)
 
 Börja med att läsa igenom de inledande sidorna. Öppna
 sedan sidan med obligatoriska [uppgifter](./assignment) markerad med {{% assignmentIcon mandatory %}} i en ny tabb eller i ett nytt fönster.

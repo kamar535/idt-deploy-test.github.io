@@ -160,7 +160,7 @@ för att lämna in i Studium.
 Från menyn **Applications** och kategorin **Internet** kan du välja att starta
 någon av webbläsarna **Firefox** eller **Google Chrome**. 
 
-<img src="/images/linux/applications-internet-menu.png" style="width:666px"/>
+<img src="/images/2024/linux/applications-internet-menu.png" style="width:666px"/>
 
 Du har nu startat en webbläsare som körs på Linux-systemet. 
 När du laddar upp filer från webbläsaren du startat på Linux-systemet kommer du åt alla filer som finns sparade på ditt Linux-konto.
@@ -170,7 +170,7 @@ När du laddar upp filer från webbläsaren du startat på Linux-systemet kommer
 Från webbläsaren du startade på Linux-systemet loggar du nu in i Studium genom
 att skriva `https://login.studium.uu.se` i addressfältet. 
 
-<img src="/images/linux/linux-studium-login.png" style="width:666px"/>
+<img src="/images/2024/linux/linux-studium-login.png" style="width:666px"/>
 
 ### Lämna in
 

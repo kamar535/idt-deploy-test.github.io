@@ -65,7 +65,7 @@ should include the following:
 
 The finished chart should look similar to this. 
 
-{{< figure src="/images/excel/uppgift.png" title="Reference chart" >}}
+{{< figure src="/images/2024/excel/uppgift.png" title="Reference chart" >}}
 
 
 ## Submit in Studium

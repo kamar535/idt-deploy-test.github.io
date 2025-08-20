@@ -37,13 +37,13 @@ använda Studentportalen medan andra redan gått över till Studium.
 Besök [studium.uu.se][studium] och klicka på **Logga in** för att logga in i
 Studium med ditt Studentkonto och lösenord A. . 
 
-<img src="/images/studenttjanster/studium/studium-login.gif">
+<img src="/images/2024/studenttjanster/studium/studium-login.gif">
 
 ### Lär dig mer om Studium
 
 När du loggar in i Studium som ny student bör du se följande meddelande. 
 
-<img src="/images/studenttjanster/studium/ny-i-studium.png"/>
+<img src="/images/2024/studenttjanster/studium/ny-i-studium.png"/>
 
 Klicka på länken [Studium studentresurs][studentresurs] om du vill lära dig mer
 om Studium. 
@@ -56,7 +56,7 @@ Till vänster ser du en meny i form av en kolumn med ikoner. Klicka på
 **Kurser**. 
 
 
-<img src="/images/studenttjanster/studium/meny-kurser.png"/>
+<img src="/images/2024/studenttjanster/studium/meny-kurser.png"/>
 
 I tabellen nedan ser du vilka utbildningar som använder Studium
 för sin introduktionskurs. Om du går ett av dessa program bör du alltså hitta
@@ -113,12 +113,12 @@ För att logga in navigerar du till [Studentportalen](https://studentportalen.uu
 hörnet. Det dyker då upp en inloggningssida där du skriver in dina
 användaruppgifter.
 
-{{< figure src="/images/studenttjanster/test1.gif" title="Inloggning i Studentportalen." >}}
+{{< figure src="/images/2024/studenttjanster/test1.gif" title="Inloggning i Studentportalen." >}}
 
 ### Startsidan
 Efter att du loggat in på Studentportalen möts du av startsidan. Från navigeringsraden kommer du åt olika delar av Studentportalen (som du ser är "**Start**" markerad när du nu är på startsidan). 
 
-{{< figure src="/images/studenttjanster/sp-navbar.png" title="Navigeringsraden i Studentportalen." >}}
+{{< figure src="/images/2024/studenttjanster/sp-navbar.png" title="Navigeringsraden i Studentportalen." >}}
 
 I mitten av startsidan finner du de program och kurser du är registrerad på denna termin. Dessa går att klicka på för att se bl.a. nyheter och information om programmet respektive kursmaterial för kurserna. Kurser du kan registrera dig på syns också här. 
 
@@ -144,7 +144,7 @@ informerar på samma sida hur registrering går till. Det går också att regist
 ### Ladok
 Om du klickar på "**Mitt Ladok**" och sedan "Till Ladok" på sidan som då dyker upp kommer du till [*Ladok*](https://www.student.ladok.se/), systemet som högskolor och universitet (däribland Uppsala universitet) använder för dokumentation av kursregistreringar och studieresultat. 
 
-{{< figure src="/images/studenttjanster/ladok-navbar.png" title="Navigeringsraden i Ladok." >}}
+{{< figure src="/images/2024/studenttjanster/ladok-navbar.png" title="Navigeringsraden i Ladok." >}}
 
 {{% notice style="warning" title="Kontrollera att allt stämmer!" %}}
 
@@ -196,14 +196,14 @@ Under "**Mitt schema**" kan du se ditt schema samt prenumerera på det, eller la
 som fil. Du kan också ställa in hur schemat ska se ut, om du föredrar en viss
 formatering.
 
-{{< figure src="/images/studenttjanster/schedule.gif" >}}
+{{< figure src="/images/2024/studenttjanster/schedule.gif" >}}
 
 Schemat kan också visas direkt i [*TimeEdit*](https://cloud.timeedit.net/uu/web/schema/), Uppsala universitets tjänst för schemaläggning.
 
 Det är inte helt uppenbart hur man prenumererar via [Google Kalender](https://calendar.google.com); du når
 alternativet genom att klicka på plustecknet för "Andra kalendrar", följt av "Från webbadress". På sidan som dyker upp kopierar du länken för schemat i iCal-format från Studentportalen eller TimeEdit (under fliken Export högerklickar du på iCal och kopierar länkadressen, se slutet av animationen ovan). 
 
-{{< figure src="/images/studenttjanster/googlecal.gif" >}}
+{{< figure src="/images/2024/studenttjanster/googlecal.gif" >}}
 
 Att lägga in schemat på Google Kalender är troligen det bästa sättet att synkronisera schemat med Android-telefoner. Detta måste dock göras från en dator.
 
@@ -240,7 +240,7 @@ Gränssnittet är lite klurigt:
 Du har även en alldeles egen e-post-address som är kopplad till Outlook. För att komma åt din inkorg klickar du på brevikonen bredvid ditt namn högst upp till höger när du är inloggad på Studentportalen.
 
 Det är starkt rekommenderat att koppla samman din nya e-post med den du använder dagligen så att meddelanden vidarebefordras. Det gör du i Outlook genom att gå till inställningsmenyn i övre högra hörnet och under "Dina appinställningar" klickar du på "E-post" och du bör få upp en meny på vänster sida. Välj "Vidarebefordran" och fyll i den e-postadress du vill koppla.
-{{< figure src="/images/studenttjanster/e-post.png" >}}
+{{< figure src="/images/2024/studenttjanster/e-post.png" >}}
 
 Universitets anställda kommer använda denna för att skicka information till
 dig. Dessutom kan du använda denna address för att verifiera att du är student.

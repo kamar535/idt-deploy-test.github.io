@@ -37,7 +37,7 @@ Innan du sätter igång med uppgifterna är det viktigt att du genomför följan
 
 Till vänster på denna sida hittar du följande delmeny.
 
-![](/images/studenttjanster/assignment/uppgifter_navigation.png?width=333px)
+![](/images/2024/studenttjanster/assignment/uppgifter_navigation.png?width=333px)
 
 Öppna huvudsidan [Studenttjänster](/student-services) i ett
 nytt fönster eller i en ny flik i din webbläsare. Om du inte redan gjort det, börja
@@ -130,7 +130,7 @@ Kopiera den URL som genereras
 (se bild nedan vilken URL som menas) och klistra in efter `schema:` i
 textdokumentet.
 
-![](/images/studenttjanster/assignment/del2.png)
+![](/images/2024/studenttjanster/assignment/del2.png)
 
 ### Del 3: Trådlöst internet (Wi-Fi)
 

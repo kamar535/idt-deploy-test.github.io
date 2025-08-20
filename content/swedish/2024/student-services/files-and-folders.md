@@ -13,7 +13,7 @@ Filer och mappar bildar en trädstruktur. Trädet börjar i **roten** och varje
 mapp bildar en egen gren i trädet. Trädet avbildas vanligen uppochner med roten
 överst som i detta exempel med **roten** (1) överst. 
 
-![](/images/studenttjanster/windows/file-tree-example.png?width=300px)
+![](/images/2024/studenttjanster/windows/file-tree-example.png?width=300px)
 
 I katalogen **roten** (1) ligger filerna **bosse** (2) och **apa** (3) samt mapparna
 **kompisar** (4) och **djur** (7). 

@@ -45,7 +45,7 @@ med hjälp för att komma vidare.
 Nedan visas ett exempel på hur ett inlägg i Diskussioner gällande Introduktion
 till datorer skall se ut. 
 
-![](/images/get-help/discussions-post-format.png?width=666px)
+![](/images/2024/get-help/discussions-post-format.png?width=666px)
 
 #### Titel på dina inlägg
 

@@ -14,17 +14,17 @@ Starta [Spyder](../spyder) om du inte redan gjort det.
 
 Till vänster i Spyder hittar du en **kodeditor**.
 
-![](/images/python/spyder/editor.png)
+![](/images/2024/python/spyder/editor.png)
 
 ## New file hello.py
 
 Tryck på ikonen **New File** och skapa en fil med namnet `hello.py`.
 
-![](/images/python/spyder/new-file.png)
+![](/images/2024/python/spyder/new-file.png)
 
 En ny flik med den nya filen `hello.py` visas nu i editorn. 
 
-![](/images/python/spyder/hello-created.png)
+![](/images/2024/python/spyder/hello-created.png)
 
 Raderna 1 - 6 utgörs av kommentarer som Spyder lagt till när du skapade filen.
 Du kan ta bort dessa kommentarer om du vill. 
@@ -41,19 +41,19 @@ I Python används funktionen `print` för att skriva ut till till Python Console
 Skriv in `print("Hello!")` i filen `hello.py` för att skriva ut strängen
 `"Hello!"` till Python Console. 
 
-![](/images/python/spyder/hello-py-1.png)
+![](/images/2024/python/spyder/hello-py-1.png)
 
 ## Kör programmet
 
 Tryck på **Run** (play). 
 
-![](/images/python/spyder/run-button.png)
+![](/images/2024/python/spyder/run-button.png)
 
 ## Run settings
 
 Första gången du kör programmet får du upp följande ruta. 
 
-![](/images/python/spyder/run-hello-settings.png)
+![](/images/2024/python/spyder/run-hello-settings.png)
 
 Du behöver inte ändra på något utan kan trycka direkt på **Run**. 
 
@@ -61,7 +61,7 @@ Du behöver inte ändra på något utan kan trycka direkt på **Run**.
 
 I Python Console ser du nu resultatet av körningen. 
 
-![](/images/python/spyder/hello-py-1-output.png)
+![](/images/2024/python/spyder/hello-py-1-output.png)
 
 I detta fall blir resultatet att texten `Hello!` skriv ut på en egen rad. 
 

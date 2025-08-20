@@ -57,7 +57,7 @@ Grafen ska innehålla följande:
 
 Du kan hänvisa till figuren för hur grafen ska se ut.
 
-{{< figure src="/images/excel/uppgift.png" title="Resulterande graf." >}}
+{{< figure src="/images/2024/excel/uppgift.png" title="Resulterande graf." >}}
 
 
 ## Inlämning

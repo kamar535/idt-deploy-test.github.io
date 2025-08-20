@@ -32,7 +32,7 @@ You find your email here: https://outlook.com/student.uu.se
 
 Your Outlook email inbox should look similar to this. 
 
-<img src="/images/studenttjanster/email/inbox.gif"/>
+<img src="/images/2024/studenttjanster/email/inbox.gif"/>
 
 [uu-student]: https://www2.uu.se/student/
 

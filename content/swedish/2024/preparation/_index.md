@@ -16,7 +16,7 @@ Lägerhyddsvägen 1 och hit tar du enkelt [buss][ul-polacksbacken] eller
 Ångströmlaboratoriet numreras. Varje sådan del kallas Hus. Huvudentré och
 [reception][ångström-reception] ligger i Hus 10.
 
-![](/images/preparation/map-of-campus-angstrom.jpg)
+![](/images/2024/preparation/map-of-campus-angstrom.jpg)
 
 
 [ångström]: https://angstrom.uu.se/
@@ -31,7 +31,7 @@ Lägerhyddsvägen 1 och hit tar du enkelt [buss][ul-polacksbacken] eller
 inre hamn. Addressen är [Cramérgatan 3][campus-gotland-google-maps]. På kartan nedan ser du de olika byggnaderna som utgör Campus Gotland. [Receptionen][campus-gotland-reception]
 hittar du vid huvudentrén.
 
-![](/images/preparation/map-of-campus-gotland.jpg)
+![](/images/2024/preparation/map-of-campus-gotland.jpg)
 
 [campus-gotland]: https://www.campusgotland.uu.se/
 [campus-gotland-reception]: https://www.campusgotland.uu.se/student/reception/
@@ -141,7 +141,7 @@ Vid Uppsala universtet är ett viktigt verktyg för undervisning, samarbete och 
 [Zoom][zoom]. På vissa kurser används Zoom även för vissa former av löpande
 examination, även när det inte är pandemi.
 
-![](/images/preparation/zoom-screenshot.png)
+![](/images/2024/preparation/zoom-screenshot.png)
 
 
 Med hjälp av Zoom kan du följa med när lärare streamar

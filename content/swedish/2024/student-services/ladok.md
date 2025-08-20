@@ -15,14 +15,14 @@ Du kan komma till Ladok genom att gå in i [Studium](../studium) och öppna vilk
 sen klicka på Ladok för studenter längst ner till vänster i navigeringen.
 Du kan också besöka [student.ladok.se](https://www.student.ladok.se/) direkt.
 
-![](/images/studenttjanster/ladok/shortcut_to_ladok_from_studium_20210811.png)
+![](/images/2024/studenttjanster/ladok/shortcut_to_ladok_from_studium_20210811.png)
 
 ## Navigering i Ladok
 
 När du är inne i Ladok
 möts du av följande navigeringsrad.
 
-![](/images/studenttjanster/ladok/navigationssida_ladok_20210811.png)
+![](/images/2024/studenttjanster/ladok/navigationssida_ladok_20210811.png)
 
 ## Kontrollera din kontaktinformation 
 
@@ -38,7 +38,7 @@ Från startsidan kan du också klicka på kursernas namn för att se mer informa
 
 Under **Min utbildning** kan du hitta alla kurser du läser just nu, kurser du kommer läsa senare i år och kurser du har läst tidigare. Du kan lätt navigera genom att trycka på navigationsknapparna i toppen.
 
-![](/images/studenttjanster/ladok/navigationssida_ladok_min_utbildning_20210811.png)
+![](/images/2024/studenttjanster/ladok/navigationssida_ladok_min_utbildning_20210811.png)
 
 ## Intyg
 

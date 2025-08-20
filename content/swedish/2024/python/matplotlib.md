@@ -16,7 +16,7 @@ Starta [Spyder](../spyder) om du inte redan gjort det.
 
 Till vänster i Spyder hittar du en **kodeditor**.
 
-![](/images/python/spyder/editor.png)
+![](/images/2024/python/spyder/editor.png)
 
 ## New file lines.py
 
@@ -46,7 +46,7 @@ plt.show()
 
 I editorn skall det nu se ut så här. 
 
-![](/images/python/matplotlib/lines-py-1.png)
+![](/images/2024/python/matplotlib/lines-py-1.png)
 
 Högst upp importeras biblioteken `matplotlib` och `numpy`.
 
@@ -92,11 +92,11 @@ Tryck på **Run** (play). I Python Console får du nu en varning som berättar a
 det genererade diagrammet visas under fliken **Plots** i vyn högst upp till
 höger i Spyder. 
 
-![](/images/python/matplotlib/lines-py-1-warning.png)
+![](/images/2024/python/matplotlib/lines-py-1-warning.png)
 
 Nu visas diagrammet. 
 
-![](/images/python/matplotlib/lines-py-1-plot.png)
+![](/images/2024/python/matplotlib/lines-py-1-plot.png)
 
 ## Lägg till rutnät
 
@@ -128,7 +128,7 @@ Kör programmet igen genom att trycka på **play**.
 Ett nytt diagram visas nu med samma linje som tidigare fast nu även med ett
 rutnät. 
 
-![](/images/python/matplotlib/lines-py-2-plot.png)
+![](/images/2024/python/matplotlib/lines-py-2-plot.png)
 
 
 ## Lägg till beskrivningar för x- och y-axel
@@ -169,7 +169,7 @@ plt.show()
  
 Det nya diagrammet ser ut så här. 
 
-![](/images/python/matplotlib/lines-py-3-plot.png)
+![](/images/2024/python/matplotlib/lines-py-3-plot.png)
 
 
 Notera att det till vänster om y-axeln nu står `y` och att det under x-axeln nu
@@ -186,7 +186,7 @@ plt.plot(x, two, color="red")
 
 Kör programmet. Det nya diagrammet ser ut så här. 
 
-![](/images/python/matplotlib/lines-py-4-plot.png)
+![](/images/2024/python/matplotlib/lines-py-4-plot.png)
 
 Notera att linjen nu är röd. 
 
@@ -237,7 +237,7 @@ plt.show()
 
 Kör programmet. Det nya diagrammet ser ut så här. 
 
-![](/images/python/matplotlib/lines-py-5-plot.png)
+![](/images/2024/python/matplotlib/lines-py-5-plot.png)
 
 I det övre vänstra hörnet av diagrammet har nu förklaringen `2x` lagts till för
 den röda linjen. 
@@ -288,7 +288,7 @@ plt.show()
 
 Kör programmet. Det nya diagrammet ser ut så här. 
 
-![](/images/python/matplotlib/lines-py-6-plot.png)
+![](/images/2024/python/matplotlib/lines-py-6-plot.png)
 
 Titeln `En rät linje` har nu lagts till överst i diagrammet. 
 
@@ -353,4 +353,4 @@ plt.show()
 ```
 Kör programmet. Det nya diagrammet ser ut så här. 
 
-![](/images/python/matplotlib/lines-py-7-plot.png)
+![](/images/2024/python/matplotlib/lines-py-7-plot.png)

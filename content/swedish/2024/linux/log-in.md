@@ -14,7 +14,7 @@ med Windows.
 
 {{< figure 
     width="555px" 
-    src="/images/linux/hus-10-pc.jpg" 
+    src="/images/2024/linux/hus-10-pc.jpg" 
     title="Arbetsplats med dator som kör Windows." 
 >}}
 
@@ -39,19 +39,19 @@ Windows använda ThinLinc Client för att logga in mot en Linux-server.
 För att logga in i Windows anger du användarnamnet för ditt **studentkonto** på
 formen `abcd1234` och **Lösenord A**.
 
-![](/images/linux/windows-10-login.jpg?width=444px)
+![](/images/2024/linux/windows-10-login.jpg?width=444px)
 
 ## Software Center (ZENworks)
 
 Någonstans på skrivbordet hittar du **Software center (Zenworks)**.
 
 
-![](/images/linux/software-center-icon.png)
+![](/images/2024/linux/software-center-icon.png)
 
 Dubbelklicka på ikonen för **Software center (Zenworks)**. Nu öppnas ett nytt
 fönster med tillgänglig mjukvara. 
 
-![](/images/linux/software-center.png)
+![](/images/2024/linux/software-center.png)
 
 Den mjukvara som du hittar här kan redan vara installerad på den dator du
 sitter vid. Om ett program inte redan är installerad kommer det att installeras första gången du
@@ -72,7 +72,7 @@ installerat redan kommer det först installeras och sedan startas.
 När ThinLinc client startat dyker ikonen för ThinLinc client upp nere i
 **taskbar** i Windows.
 
-![](/images/linux/windows-taskbar-thinlinc-client.png)
+![](/images/2024/linux/windows-taskbar-thinlinc-client.png)
 
 ## Logga in med ThinLinc Client
 
@@ -85,12 +85,12 @@ formen `abcd1234`.
 - I fältet **Password** skriver du ditt **Lösenord A**.
 
 
-![](/images/linux/thinlinc-login.png?width=500px)
+![](/images/2024/linux/thinlinc-login.png?width=500px)
 
 Klicka på **Connect** för att logga in. Första gången du gör det kan du mötas av
 följande meddelande. 
 
-![](/images/linux/trust-this-host.png?width=500px)
+![](/images/2024/linux/trust-this-host.png?width=500px)
 
 Om du ser meddelandet ovan, klicka på **Continue**. 
 
@@ -101,6 +101,6 @@ Detta fönster kan du maximera eller ändra storlek på, precis som för vilket
 annat fönster som helst i Windows. I fönstret i Windows ser du alltså
 skrivbordet för Linux som i själva verket körs på en server någon annanstans.
 
-![](/images/linux/linux-desktop.png)
+![](/images/2024/linux/linux-desktop.png)
 
 

@@ -39,13 +39,13 @@ Om du läser **ES** loggar du in i Canvas [här][slu-canvas].
 Besök [studium.uu.se][studium] och klicka på **Logga in** för att logga in i
 Studium med ditt Studentkonto (abcd1234) och lösenord A. .
 
-![](/images/studenttjanster/studium/studium-login.gif)
+![](/images/2024/studenttjanster/studium/studium-login.gif)
 
 ## Lär dig mer om Studium
 
 När du loggar in i Studium som ny student bör du se följande meddelande.
 
-![](/images/studenttjanster/studium/ny-i-studium.png)
+![](/images/2024/studenttjanster/studium/ny-i-studium.png)
 
 Klicka på länken [Studium studentresurs][studentresurs] om du vill lära dig mer
 om Studium.
@@ -61,11 +61,11 @@ smeknamn på dina kurser (2).
 Du ser också högst upp till höger (3) vad som behöver göras i samtliga kurser,
 samt se den senaste återkopplingen.
 
-![](/images/studenttjanster/studium/dashboard_studium_20210811.png)
+![](/images/2024/studenttjanster/studium/dashboard_studium_20210811.png)
 
 För att snabbt navigera mellan alla kurser kan du trycka på **Kurser**.
 
-![](/images/studenttjanster/studium/courses_studium_20210811.png)
+![](/images/2024/studenttjanster/studium/courses_studium_20210811.png)
 
 ## Hantering av grupper
 
@@ -76,14 +76,14 @@ studenter inom en kurs.
 
 Från **Grupper** i huvudmenyn ser du alla grupper som du är med i. 
 
-![](/images/studenttjanster/studium/groups_list.png)
+![](/images/2024/studenttjanster/studium/groups_list.png)
 
 ### Medlemmar i en grupp
 
 När du klickar vidare på en grupp kommer du till en sida som visar alla
 studenter i gruppen. 
 
-![](/images/studenttjanster/studium/groups_members.png)
+![](/images/2024/studenttjanster/studium/groups_members.png)
 
 Notera att när du klickat in dig på en grupp dyker det upp en ny meny till
 vänster med funktioner för gruppen. 
@@ -93,7 +93,7 @@ vänster med funktioner för gruppen.
 En praktiskt funktion är **Diskussioner**. Härifrån kan du enkelt kommunicera
 med alla medlemmarna i en grupp direkt från Studium.
 
-![](/images/studenttjanster/studium/groups_discussion.png)
+![](/images/2024/studenttjanster/studium/groups_discussion.png)
 
 ### Samarbeten
 
@@ -104,25 +104,25 @@ genom att klicka på deras namn i rutan längst ner till vänster. Alla som ligg
 kommer att få ett mail till deras studentmail (och med fördel till deras privata mail om de har satt upp vidarebefordring)
 att ett nytt samarbete i gruppen har skapats.
 
-![](/images/studenttjanster/studium/groups_collaborate.png)
+![](/images/2024/studenttjanster/studium/groups_collaborate.png)
 
 Såhär ser det sedan ut när det finns samarbeten att välja mellan
 och du kan ha flera samarbeten samtidigt.
 
-![](/images/studenttjanster/studium/groups_collaborate_list.png)
+![](/images/2024/studenttjanster/studium/groups_collaborate_list.png)
 
 ## Meddelanden
 
 Studium har ett eget inbyggt system där du kan skicka meddelanden till andra
 studenter och lärare. I huvudmenyn heter detta **Inkorgen**. 
 
-![](/images/studenttjanster/studium/menu-inkorgen.png?width=222px)
+![](/images/2024/studenttjanster/studium/menu-inkorgen.png?width=222px)
 
 Här kan du läsa meddelanden andra skickat till dig. Även om det heter
 **Inkorgen** är det även härifrån du skriver och skickar meddelanden till andra.
 För att skriva ett nytt meddelande trycker du på knappen med pennan (2).
 
-![](/images/studenttjanster/studium/send-message-button.png?width=666px)
+![](/images/2024/studenttjanster/studium/send-message-button.png?width=666px)
 
 Läs mer om meddelanden i Studium [här][messages]. 
 
@@ -134,7 +134,7 @@ Läs mer om meddelanden i Studium [här][messages].
 Från **Kalender** (1) i huvudmeny kommer du till en kalender där med en överblick över kommande 
 inlämningsuppgifter och vad som behöver göras i dina kurser. 
 
-![](/images/studenttjanster/studium/calendar_studium_20210811.png)
+![](/images/2024/studenttjanster/studium/calendar_studium_20210811.png)
 
 
 ## Mer om Studium

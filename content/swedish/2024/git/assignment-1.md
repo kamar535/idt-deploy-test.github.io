@@ -148,7 +148,7 @@ Du bör nu se något liknande detta.
 exempel använda Gedit. Du hittar **Gedit** (3) från menyn **Applications** (1)
 under kategorin **Accessories** (2).
 
-![](/images/git/applications-accessories-gedit.png?width=555px)
+![](/images/2024/git/applications-accessories-gedit.png?width=555px)
 
 
 ## Skapa ny fil
@@ -770,11 +770,11 @@ konto på GitHub och du kommer behöva ett sådant på kurser längre fram.
 När du loggat in på ditt konto på GitHub skall du nu skapa ett nytt repo på
 GitHub. I övre vänstra hörnet trycker du först på knappen **New** (1).
 
-![](/images/git/new.png)
+![](/images/2024/git/new.png)
 
 Nu skall du ge repot ett namn.
 
-![](/images/git/github-create-new-repo.png)
+![](/images/2024/git/github-create-new-repo.png)
 
 I fältet **Repository name** (2) skriver du `abcd1234-git-test` där du ersätter
 `abcd1234` med användarnamnet på ditt studentkonto vid Uppsala universitet.
@@ -785,7 +785,7 @@ Kontrollera att repot är publikt (3).
 Tryck sedan på **Create repository** (4). Nu skall du se något liknande detta.
 
 
-![](/images/git/github-quick-setup.png)
+![](/images/2024/git/github-quick-setup.png)
 
 
 Det vi för tillfället är intresserade av är alternativet **...or push an
@@ -800,23 +800,23 @@ på GitHub via terminalen eller via API.
 
 ### Steg 1
 
-![](/images/git/stg1.jpg?width=244px)
+![](/images/2024/git/stg1.jpg?width=244px)
 
 Klicka på din profil på GitHub och klicka sedan på **settings**.
 
 ### Steg 2
 
-![](/images/git/steg2.jpg?width=644px)
+![](/images/2024/git/steg2.jpg?width=644px)
 
 Klicka på **Developer settings**.
 
 ### Steg 3
 
-![](/images/git/steg3_1.jpg?width=344px)
+![](/images/2024/git/steg3_1.jpg?width=344px)
 
 Klicka sedan på **Personal access tokens** 
 
-![](/images/git/steg3_2.jpg?width=944px)
+![](/images/2024/git/steg3_2.jpg?width=944px)
 
 Sedan på **Generate new token**. 
 
@@ -824,7 +824,7 @@ Sedan på **Generate new token**.
 Skriv *"GitHub"* i **Note**.
 Boka i **repo** fältet.
 
-![](/images/git/steg4.jpg?width=944px)
+![](/images/2024/git/steg4.jpg?width=944px)
 
 Klicka sedan på **Generate token**. Se till att spara ditt nya personal access token om 
 du vill använda det igen, du kan inte få fram det på GitHub igen efter att du skapat det.
@@ -872,40 +872,40 @@ Branch 'main' set up to track remote branch 'main' from 'origin'.
 
 Ladda om webbsidan på GitHub. Det skall nu se ut ungefär så här. 
 
-![](/images/git/github-after-inital-push.png)
+![](/images/2024/git/github-after-inital-push.png)
 
 ## Kika på filer på GitHub
 
 Klicka på `color.txt` (6). 
 
-![](/images/git/github-click-on-color.png?width=600px)
+![](/images/2024/git/github-click-on-color.png?width=600px)
 
 Nu skall du se innehållet (7) i filen `color.txt`.
 
-![](/images/git/github-color-1.png?width=600px)
+![](/images/2024/git/github-color-1.png?width=600px)
 
 Härifrån kan du klicka på **History** (8). 
 
-![](/images/git/github-color-2.png?width=600px)
+![](/images/2024/git/github-color-2.png?width=600px)
 
 Nu får du se historiken för just den här filen.
  
-![](/images/git/github-color-history.png?width=600px)
+![](/images/2024/git/github-color-history.png?width=600px)
 
 ## Inlämning
 
 Klicka på `abcd1234-git-test` (9) överst på sidan för att komma tillbaka till
 startsidan för repot. 
 
-![](/images/git/github-color-3.png?width=600px)
+![](/images/2024/git/github-color-3.png?width=600px)
 
 Klicka sedan på **Code** (10).
 
-![](/images/git/github-code-button.png?width=600px)
+![](/images/2024/git/github-code-button.png?width=600px)
 
 Kopiera adressen till repot (11). 
 
-![](/images/git/github-clone-url.png?width=600px)
+![](/images/2024/git/github-clone-url.png?width=600px)
 
 Lämna in den kopierade adressen till repot på angiven plats nedan. 
 

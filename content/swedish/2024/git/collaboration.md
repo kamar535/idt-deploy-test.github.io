@@ -15,7 +15,7 @@ göra en serie commits där tiden hela tiden går framåt. Med Git går det äve
 låta historiken förgrena sig i så kallade branches. På detta sätt är det möjligt
 att skapa alternativa tidslinjer (precis som i science fiction). 
 
-![](/images/git/linear-and-branched-commit-history.png)
+![](/images/2024/git/linear-and-branched-commit-history.png)
 
 Det visar sig att förgreningar (branches) kan vara mycket användbara för att
 underlätta samarbete med andra kring ett projekt. 
@@ -140,7 +140,7 @@ en _merge_ (lämpligt nog). Det betyder att Git gör sitt bästa för att passa 
 ändringarna som gjorts sedan den gemensamma brytpunkten för två branches. I
 praktiken görs också en merge när kod hämtas från en remote med `git pull`.
 
-![](/images/git/branch-and-merge.png?width=333px)
+![](/images/2024/git/branch-and-merge.png?width=333px)
 
 Om någon gjort en ändring i en branch som du inte har sett och du gör merge med
 kommer Git att göra sitt bästa för att pussla de två grenarna och varna om det

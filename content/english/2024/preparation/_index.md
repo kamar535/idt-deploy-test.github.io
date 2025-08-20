@@ -15,7 +15,7 @@ things you should fix as soon as possible.
 harbour. The address is [Cramérgatan 3][google-maps]. On the map below you can see the various buildings that make up Campus
 Gotland. You will find the [reception][campus-gotland-reception] at the main entrance.
 
-![](/images/preparation/eng-map-of-campus-gotland.jpeg)
+![](/images/2024/preparation/eng-map-of-campus-gotland.jpeg)
 
 [google-maps]:
     https://www.google.com/maps/place/Huvudentr%C3%A9,+Cram%C3%A9rgatan+3,+621+57+Visby/@57.6394441,18.2887703,17z/data=!3m1!4b1!4m6!3m5!1s0x46f7aed6047df557:0x3c467d3a14fe45d6!8m2!3d57.6394441!4d18.2887703!16s%2Fg%2F12hqvp73_?entry=ttu
@@ -123,7 +123,7 @@ Uppsala University. You can attend lectures and take part in seminar
 discussions. You could be invited to online workshops, where your class is
 divided into smaller groups. It is also possible to record a Zoom meeting.
 
-![](/images/preparation/zoom-screenshot.png)
+![](/images/2024/preparation/zoom-screenshot.png)
 
 ### Activate your Zoom account
 

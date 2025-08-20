@@ -7,7 +7,7 @@ Git och GitHub används flitigt i industrin och är verktyg som kommer användas
 många kurser längre fram. Det är därför nödvändigt att du redan nu börjar lära
 dig grunderna.
 
-![](/images/git/git-github.png?width=444px)
+![](/images/2024/git/git-github.png?width=444px)
 
 ## Vad är Git?
 
@@ -50,7 +50,7 @@ slås ihop.
 För att förstå hur Git fungerar behöver vi skilja på working directory, staging
 area och commit historik (repository).
 
-![](/images/git/working-directory-staging-area-commit-history.png?width=444px)
+![](/images/2024/git/working-directory-staging-area-commit-history.png?width=444px)
 
 <!-- Image adopted from https://stackoverflow.com/a/35882869 -->
 
@@ -95,7 +95,7 @@ mappar och filer för att hålla reda på historiken. Ett förenklat sätt att t
 på ett Git repo är att det består de tre delarna: working directory, staging area
 och commit historik.
 
-![](/images/git/git-repo-main-components.png?width=555px)
+![](/images/2024/git/git-repo-main-components.png?width=555px)
 
 <!-- Img src: https://www.atlassian.com/git/tutorials/resetting-checking-out-and-reverting -->
 
@@ -112,7 +112,7 @@ tillstånd.
 En fil, eller mer exakt en ändring på en fil, rör sig sedan mellan dessa
 tillstånd enligt följande diagram.
 
-![](/images/git/git-state-transitions.svg?width=555px)
+![](/images/2024/git/git-state-transitions.svg?width=555px)
 
 <!-- Image src: https://snipcademy.com/git-fundamentals -->
 
@@ -202,7 +202,7 @@ internet kallas för remote repo. Ett enkelt sätt att sätta upp ett remote rep
 
 För att hålla ett lokalt repo och ett remote repo i synk används push och pull. 
 
-![](/images/git/local-repo-network-gihub-remote.png?width=555px)
+![](/images/2024/git/local-repo-network-gihub-remote.png?width=555px)
 
 Med push skickar du upp din senaste commit till ett remote repo för att det
 skall hamna i synk med ditt lokala repo. Kommandot som används för att göra en
@@ -228,7 +228,7 @@ en backup på GitHub som du kan använda för att återställa ditt lokala repo.
 Genom att klona ett remote repo skapar du ett nytt lokalt repo som är en kopia av ett
 befintligt remote repo, till exempel ett repo på GitHub. 
 
-![](/images/git/clone-from-github.png?width=555px)
+![](/images/2024/git/clone-from-github.png?width=555px)
 
 Ett klonat repo får automatiskt det ursprungliga repot uppsatt som sin remote. 
 Kommandot som används för att klona ett remote repo är `git clone`.
