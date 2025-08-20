@@ -81,16 +81,15 @@ jobs:
             hugo-
       - name: Build the site
         run: |
-          hugo mod get github.com/kamar535/hugo-theme-relearn-tweaks@v0.0.0-20250819081232-8dfb3fd486e7 \
-          && \
-          hugo mod get github.com/McShelby/hugo-theme-relearn@v0.0.0-20250601093205-4407b4364ab6 \
-          && \
+          # hugo mod get github.com/kamar535/hugo-theme-relearn-tweaks@v0.0.0-20250819081232-8dfb3fd486e7 \
+          # && \
+          #hugo mod get github.com/McShelby/hugo-theme-relearn@v0.0.0-20250601093205-4407b4364ab6 \
+          #&& \
           hugo \
             --gc \
             --minify \
-            --baseURL "${{ steps.pages.outputs.base_url }}/2024/" \
+            --baseURL "${{ steps.pages.outputs.base_url }}" \
             --cacheDir "${{ runner.temp }}/hugo_cache" \
-            --config=2024/hugo.toml \
       - name: Cache save
         id: cache-save
         uses: actions/cache/save@v4

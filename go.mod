@@ -11,4 +11,4 @@ require (
 
 // Uncomment when doing local development of the hugo-theme-relearn-tweaks module
 
-// replace github.com/kamar535/hugo-theme-relearn-tweaks  => /Users/karl/git/hugo-theme-relearn-tweaks
+replace github.com/kamar535/hugo-theme-relearn-tweaks  => /Users/karl/git/hugo-theme-relearn-tweaks
