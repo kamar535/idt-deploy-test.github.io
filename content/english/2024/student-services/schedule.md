@@ -6,12 +6,12 @@ weight: 7
 The easiest way to find your schedule is to log in to Studium, navigate to one of your
 courses, and click on schedule (1).
 
-<img src="/images/studenttjanster/schedule/eng-menu-schedule.png" style="width:333px"/>
+<img src="/images/2024/studenttjanster/schedule/eng-menu-schedule.png" style="width:333px"/>
 
 Now you can choose to show the course schedule (3) or a schedule with all your
 scheduled activities in all courses (2). 
 
-<img src="/images/studenttjanster/schedule/eng-select-schedules.png" style="width:555px"/>
+<img src="/images/2024/studenttjanster/schedule/eng-select-schedules.png" style="width:555px"/>
 
 ### Subscribe to your schedule
 
@@ -21,7 +21,7 @@ To subscribe to the schedule, start by changing the start date (4) and end date 
 to select the entire semester. Then click on subscribe (6) and
 copy the link.
 
-<img src="/images/studenttjanster/schedule/eng-subscribe.png" style="width:777px"/>
+<img src="/images/2024/studenttjanster/schedule/eng-subscribe.png" style="width:777px"/>
 
 Calendar subscriptions are usually updated once a day.
 Please note that sometimes times and classrooms may change and not be updated

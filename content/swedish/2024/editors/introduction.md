@@ -86,7 +86,7 @@ melodier gentemot ackord. Istället för att trycka på flera tangenter samtidig
 gör du det sekventiellt. Därmed besparar du dig känslan av att skriva
 `<Ctrl>+<Alt>+<Shift>+T` med en hand.
 
-{{< figure src="/images/editorer/vim-sample.gif" title="Vim kan göra roliga saker." >}}
+{{< figure src="/images/2024/editorer/vim-sample.gif" title="Vim kan göra roliga saker." >}}
 
 Vidare är Vim den mest resurssnåla textredigeraren. Oavsett hur bra dator du
 har kommer det alltså fungera bra.
@@ -132,7 +132,7 @@ Emacs-användare rekommenderas starkt att [konfigurera om Caps
 Lock](http://www.howtogeek.com/194705/how-to-disable-or-reassign-the-caps-lock-key-on-any-operating-system/)
 så att den byter plats med Ctrl.[^emacs-pedal]
 
-{{< figure src="/images/editorer/emacs.gif" title="Emacs kan också göra roliga saker." >}}
+{{< figure src="/images/2024/editorer/emacs.gif" title="Emacs kan också göra roliga saker." >}}
 
 
 ### Övriga
@@ -158,7 +158,7 @@ i sitt grundutförande, och det finns möjligheter att utöka programmet med
 insticksprogram. Editorn innehåller verktyg för att hantera källkod och
 strukturerad text, bland annat syntaxmarkering. 
 
-{{< figure src="/images/editorer/Gedit.png" title="Gedit." >}}
+{{< figure src="/images/2024/editorer/Gedit.png" title="Gedit." >}}
 
 Gedit finns installerat på universitetets Linuxsysem. 
 
@@ -168,7 +168,7 @@ Gedit finns installerat på universitetets Linuxsysem.
 Den fungerar även på de flesta operativsystem och har stöd för många plugins
 och smarta funktioner.
 
-{{< figure src="/images/editorer/atom_custom.png" title="Atom med PlatformIO installerat." >}}
+{{< figure src="/images/2024/editorer/atom_custom.png" title="Atom med PlatformIO installerat." >}}
 
 ### Sublime
 
@@ -176,20 +176,20 @@ och smarta funktioner.
 Sublime har ett antal funktioner som är hjälpsamma för programmerare och är gratis
 att testa, men kostar en mindre summa för att använda under längre tid.
 
-{{< figure src="/images/editorer/sublime.png" title="Sublime Text 3." >}}
+{{< figure src="/images/2024/editorer/sublime.png" title="Sublime Text 3." >}}
 
 ### Visual Studio Code
 
 [Visual Studio Code](https://code.visualstudio.com/) är en väldigt populär editor för Windows, Mac och Linux. Den är i grunden open-source (den av Microsoft distribuerade versionen innehåller dock proprietär kod) och likt Atom är den gratis och dess funktionallitet kan utökas och ändras med så kallade *extensions*. Den som vill använda en open-source-version av Visual Studio Code (det vill säga utan Microsofts tillägg) kan spana in [VSCodium](https://github.com/VSCodium/vscodium). 
 
-{{< figure src="/images/editorer/visualstudiocode.png" title="Visual Studio Code." >}}
+{{< figure src="/images/2024/editorer/visualstudiocode.png" title="Visual Studio Code." >}}
 
 ### Notepad++
 
 [Notepad++](https://notepad-plus-plus.org/) är en enkel textredigerare som
 i grunden är gjord för Windows.[^notepad]
 
-{{< figure src="/images/editorer/nppp_dark.png" title="Notepad++." >}}
+{{< figure src="/images/2024/editorer/nppp_dark.png" title="Notepad++." >}}
 
 ### Valfri DE-editor
 
@@ -219,14 +219,14 @@ fullfjädrad IDE med många fler funktioner, medan Visual Studio Code är en
 editor.
 
 
-{{< figure src="/images/editorer/msvisualstudio.png" title="Visual Studio Community 2015" >}}
+{{< figure src="/images/2024/editorer/msvisualstudio.png" title="Visual Studio Community 2015" >}}
 
 ### Apple Xcode
 
 [Xcode](https://developer.apple.com/xcode/) är Apples primära IDE och är
 hjälpsam för den som vill utveckla snygga appar för Mac OS och iOS.
 
-{{< figure src="/images/editorer/xcode.png" title="Apple Xcode." >}}
+{{< figure src="/images/2024/editorer/xcode.png" title="Apple Xcode." >}}
 
 ### Android Studio
 
@@ -235,21 +235,21 @@ som används vid utveckling av Android-appar. Tidigare baserades detta IDE på
 ett Java-IDE kallat Eclipse (se nedan), men nuvarande version är en
 skräddarsydd variant av IntelliJ IDEA (ett annat Java-IDE).
 
-{{< figure src="/images/editorer/androidstudio.png" title="Android Studio." >}}
+{{< figure src="/images/2024/editorer/androidstudio.png" title="Android Studio." >}}
 
 ### Eclipse
 [Eclipse](https://eclipse.org/) används primärt för att skriva Java-kod, men det
 finns versioner som har stöd för utveckling av C/C++.
 [^java]
 
-{{< figure src="/images/editorer/eclipse.png" title="Eclipse" >}}
+{{< figure src="/images/2024/editorer/eclipse.png" title="Eclipse" >}}
 
 
 ### IntelliJ IDEA
 [IntelliJ IDEA](https://www.jetbrains.com/idea/) är ett annat exempel på Java-IDE,
 som har ett lite annat upplägg än Eclipse.
 
-{{< figure src="/images/editorer/intellij.png" title="IntelliJ IDEA Community." >}}
+{{< figure src="/images/2024/editorer/intellij.png" title="IntelliJ IDEA Community." >}}
 
 ### Egen editor i IDE
 

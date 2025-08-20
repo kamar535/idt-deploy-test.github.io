@@ -101,7 +101,7 @@ Placera följande kommandon under rubriken *Numrerad lista* i dokumentet.
 
 Du bör nu ha en numrerad lista i ditt dokument:
 
-{{< figure src="/images/latex/latex-uppgift-enumerate.png" title="En numrerad lista." >}}
+{{< figure src="/images/2024/latex/latex-uppgift-enumerate.png" title="En numrerad lista." >}}
 ### Del 6: Ekvation
 Placera följande kommandon under rubriken *Ekvation* i dokumentet.
 
@@ -109,7 +109,7 @@ Placera följande kommandon under rubriken *Ekvation* i dokumentet.
 2. Skriv formeln för volymen av ett klot (se nedan).
 
 I det renderade dokumentet ska ekvationen se ut så här:
-{{< figure src="/images/latex/ekvation-uppgift.png" title="Volymen av ett klot." >}}
+{{< figure src="/images/2024/latex/ekvation-uppgift.png" title="Volymen av ett klot." >}}
 
 ### Del 7: Bild med tillhörande referens
 
@@ -150,7 +150,7 @@ Ladda paketet `hyperref` om du vill att referensen ska vara klickbar!
 
 Den resulterande PDF:en ska nu ha en sida med titel och innehållsförteckning, fyra rubriker innehållande en numrerad lista, en ekvation, en bild och bildreferens och citat. En lista med referenser ska också finnas. Du kan använda bilden nedan som mall för hur sidorna i ditt dokument bör se ut.
 
-{{< figure class="border" src="/images/latex/latex-final-uppg.png" title="Färdigt dokument." >}}
+{{< figure class="border" src="/images/2024/latex/latex-final-uppg.png" title="Färdigt dokument." >}}
 
 ## Inlämning
 

@@ -22,7 +22,7 @@ igång VS Code på din privata dator.
 
 Starta VS Code. 
 
-![](/images/python/vscode/vscode-start.png?width=600px)
+![](/images/2024/python/vscode/vscode-start.png?width=600px)
 
 Öppna en terminal från menyn. 
    -  Windows: View > Terminal.
@@ -31,7 +31,7 @@ Starta VS Code.
 
 I undre halvan av VS Code öppnas nu en terminal.
 
-![](/images/python/vscode/vscode-terminal.png?width=600px)
+![](/images/2024/python/vscode/vscode-terminal.png?width=600px)
 
 I terminalen kan du nu testa om du redan har Python installerat. 
 
@@ -83,11 +83,11 @@ command not found: py
 
 Klicka på **Extensions**.
 
-![](/images/python/vscode/vscode-extensions.png?width=600px)
+![](/images/2024/python/vscode/vscode-extensions.png?width=600px)
 
 Sök efter **Python** (1) och välj **Python extension from Microsoft** (2).
 
-![](/images/python/vscode/vscode-install-python-extension.png?width=600px)
+![](/images/2024/python/vscode/vscode-install-python-extension.png?width=600px)
 
 Om du redan har detta tillägg installerat kommer du se en knapp för att
 avinstallera (3) och annars kommer du på samma plats att se en knapp för att
@@ -101,11 +101,11 @@ Från VS Code, tryck `Ctrl+Shift+P` (Windows och Linux) eller `Cmd+Shift+P`
 (macOS) för att öppna kommandopaletten. Skriv `Start REPL` i sökrutan och välj
 `Python: Start REPL`.
 
-![](/images/python/vscode/start-repl.png?width=600px)
+![](/images/2024/python/vscode/start-repl.png?width=600px)
 
 I den nedre halvan av VS Code öppnas nu en terminal, med ett Python REPL.
 
-![](/images/python/vscode/python-repl.png?width=600px)
+![](/images/2024/python/vscode/python-repl.png?width=600px)
 
 Skriv in följande vid prompten `>>>` och tryck enter. 
 

@@ -110,7 +110,7 @@ Denna text är inte heller centrerad.
 
 Det resulterande dokumentet ser ut så här:
 
-{{< figure src="/images/latex/latex-centered.png" title="Centrerad text i LaTeX" >}}
+{{< figure src="/images/2024/latex/latex-centered.png" title="Centrerad text i LaTeX" >}}
 
 ## Påbörja ett LaTeX-dokument
 
@@ -125,7 +125,7 @@ helt tomt dokument i din editor.
 
 När du har skapat ett konto hos [Overleaf](https://www.overleaf.com/) kan du skapa ett nytt projekt från startsidan genom att klicka på ikonen *New project* i det övre vänstra hörnet. För att få ett tomt dokument att skriva i väljer du sedan *Blank Project* i listan. Du kommer då få något som liknar detta:
 
-{{< figure src="/images/latex/overleaf-intro.png" title="Start till ett projekt i Overleaf" >}}
+{{< figure src="/images/2024/latex/overleaf-intro.png" title="Start till ett projekt i Overleaf" >}}
 
 I sidofältet längst till vänster finns de filer du jobbar med. I den vänstra av de två stora rutorna skrivs text och kommandon. Dokumentets utseende visas i den högra rutan. För att i högra rutan se resultatet av det man skrivit i den vänstra rutan måste dokumentet först kompileras genom att trycka på den gröna knappen "Recompile".
 
@@ -212,7 +212,7 @@ Detta är ett väldigt kort stycke. \par Detta är ett annat stycke.
 ```
 
 
-{{< figure src="/images/latex/sections.png" title="Exempel på styckesindelning i LaTeX" >}}
+{{< figure src="/images/2024/latex/sections.png" title="Exempel på styckesindelning i LaTeX" >}}
 
 ### Skapa en titel
 
@@ -234,7 +234,7 @@ Dokumentets innehåll står här!
 \end{document}
 ```
 
-{{< figure src="/images/latex/titel.png" title="Enkel titel i LaTeX" >}}
+{{< figure src="/images/2024/latex/titel.png" title="Enkel titel i LaTeX" >}}
 
 
 ### Generera en innehållsförteckning
@@ -242,7 +242,7 @@ Dokumentets innehåll står här!
 För att skapa en innehållsförteckning lägger du till kommandot `\tableofcontents` där du vill ha den.
 Alla *numrerade* rubriker kommer då dyka upp i den.
 
-{{< figure src="/images/latex/toc.png" title="En (något överflödig) innehållsförteckning." >}}
+{{< figure src="/images/2024/latex/toc.png" title="En (något överflödig) innehållsförteckning." >}}
 
 ### Listor
 
@@ -255,7 +255,7 @@ Den enklaste typen av lista gör du med miljön `itemize`, där varje post i lis
 \end{itemize}
 ```
 
-{{< figure src="/images/latex/itemize.png" title="Lista med itemize." >}}
+{{< figure src="/images/2024/latex/itemize.png" title="Lista med itemize." >}}
 
 För att göra nästlade listor påbörjar du en ny miljö inuti den befintliga.
 
@@ -272,7 +272,7 @@ Du kan även göra numrerade listor med miljön `enumerate`.
 \end{enumerate}
 ```
 
-{{< figure src="/images/latex/enumerate.png" title="Nästlad lista med enumerate." >}}
+{{< figure src="/images/2024/latex/enumerate.png" title="Nästlad lista med enumerate." >}}
 
 För att skriva ordboksliknande listor använder du enklast miljön `description`. Varje inlägg skrivs då `\item[Term]`
 
@@ -283,7 +283,7 @@ För att skriva ordboksliknande listor använder du enklast miljön `description
 \end{description}
 ```
 
-{{< figure src="/images/latex/description.png" title="Lista med tillhörande förklaringar." >}}
+{{< figure src="/images/2024/latex/description.png" title="Lista med tillhörande förklaringar." >}}
 
 
 ### Tabeller
@@ -313,7 +313,7 @@ Detta kan låta lite klurigt, så här följer ett kopierbart exempel som du gä
 \end{tabular}
 ```
 
-{{< figure src="/images/latex/tabular.png" title="Den resulterande tabellen" >}}
+{{< figure src="/images/2024/latex/tabular.png" title="Den resulterande tabellen" >}}
 
 Notera att mellanslag och radbrytningar i den råa texten inte spelar någon roll. Därför kan du anpassa detta för att göra det så läsligt som möjligt för dig själv.
 
@@ -367,7 +367,7 @@ V=\frac{\pi r^2h}{3}
 \end{equation}
 ```
 
-{{< figure src="/images/latex/ekvation.png" title="Uppställda ekvationen för en kon" >}}
+{{< figure src="/images/2024/latex/ekvation.png" title="Uppställda ekvationen för en kon" >}}
 
 ### Specialtecken
 
@@ -426,7 +426,7 @@ bilden den refererar till!
 
 {{% /notice %}}
 
-{{< figure src="/images/latex/figure.png" title="En kul figur i LaTeX." >}}
+{{< figure src="/images/2024/latex/figure.png" title="En kul figur i LaTeX." >}}
 
 ### Referenser
 

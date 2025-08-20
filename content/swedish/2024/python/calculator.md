@@ -14,7 +14,7 @@ Starta [Spyder](../spyder) om du inte redan gjort det.
 
 Nere till höger i Spyder hittar du **Python Console** vilket är ett Python REPL. 
 
-![](/images/python/spyder/python-console.png)
+![](/images/2024/python/spyder/python-console.png)
 
 ## Förenklad prompt 
 
@@ -278,7 +278,7 @@ fall får vi nöja oss med att `π` approximeras till `3.141592653589793`.
 
 I intervallet `0` till `2π` ser sinusfunktionen ut så här.
 
-![](/images/python/numpy/sinus.png?width=600px)
+![](/images/2024/python/numpy/sinus.png?width=600px)
 
 Efter import av biblioteket `math` finns funktionen sinus tillgänglig som
 `math.sin`. Testa att beräkna `sin(0)`.
@@ -325,7 +325,7 @@ decimaler.
 
 I intervallet `0` till `2π` ser cosinusfunktionen ut så här.
 
-![](/images/python/numpy/cosinus.png?width=600px)
+![](/images/2024/python/numpy/cosinus.png?width=600px)
 
 Efter import av biblioteket `math` finns funktionen sinus tillgänglig som
 `math.cos`. Testa att beräkna `cos(0)`.

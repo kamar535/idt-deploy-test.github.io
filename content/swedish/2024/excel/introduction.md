@@ -19,20 +19,20 @@ Rutnätet delas upp i **kolumner** (anges med bokstäver) och **rader** (anges m
 
 Rader numreras med siffror och anger vart en cell befinner sig vertikalt. I exemplet nedan har alla celler på rad 3 markerats.
 
-{{< figure src="/images/excel/row-3.png" title="Rad 3 i rutnätet." >}}
+{{< figure src="/images/2024/excel/row-3.png" title="Rad 3 i rutnätet." >}}
 
 ### Kolumner
 
 Kolumner numreras med bokstäver och anger var en cell befinner sig horisontellt. I exemplet nedan har alla celler i kolumn C markerats.
 
-{{< figure src="/images/excel/column-c.png" title="Kolumn C i rutnätet." >}}
+{{< figure src="/images/2024/excel/column-c.png" title="Kolumn C i rutnätet." >}}
 
 ## Referenser
 
 För att referera till en specifik cell anges först rad direkt följd av
 kolumn. På detta sätt refererar `C3` till cellen på rad `C` och kolumn `3` i rutnätet.
 
-{{< figure src="/images/excel/cell-position-example.png"
+{{< figure src="/images/2024/excel/cell-position-example.png"
     title="I rutnätet befinner sig cell C3 i kolumn C, rad 3." >}}
 
 ## Omfång
@@ -41,7 +41,7 @@ För att beteckna ett antal närliggande celler används __omfång__ (range). Et
 en rektangel av celler i rutnätet. Ett omfång definieras genom att ange cellerna i två
 motstående hörn i rektangeln separerade av tecknet `:` (kolon). I exemplet nedan har omfånget `A1:C3` markerats.
 
-{{< figure src="/images/excel/range-example.png" title="Omfånget A1:C3." >}}
+{{< figure src="/images/2024/excel/range-example.png" title="Omfånget A1:C3." >}}
 
 ## Komma igång
 
@@ -54,7 +54,7 @@ webbläsare. Notera att denna version saknar stöd för trendlinjer.
 Du kan hitta online-versionen med [denna länk](https://office.live.com/start/Excel.aspx).
 
 Välj *blank page* för att bemötas av följande sida:
-{{< figure src="/images/excel/start.png" title="Excel vid start." >}}
+{{< figure src="/images/2024/excel/start.png" title="Excel vid start." >}}
 
 
 Du kan nu börja skriva in siffror! Spara genom att klicka på *File*, längst upp till vänster.
@@ -67,7 +67,7 @@ Du kan testa detta genom att skriva några tal (*Enter* tar dig till nästa rad)
 klicka och dra musen neråt från det nedre högra hörnet för att skapa en
 talserie baserad på de markerade talen.
 
-{{< figure src="/images/excel/quicknum.gif" title="Snabb inmatning av serier." >}}
+{{< figure src="/images/2024/excel/quicknum.gif" title="Snabb inmatning av serier." >}}
 
 
 
@@ -107,7 +107,7 @@ skriv följande, efter vilket du trycker `<Enter>`:
 
 I detta exempel är alltså funktionens namn `SUM`, medan argumentet är `A1:B11`
 
-{{< figure src="/images/excel/sum.png" title="Beräkna summa." >}}
+{{< figure src="/images/2024/excel/sum.png" title="Beräkna summa." >}}
 
 Resultatet, vilket kommer synas i cellen när du är klar, är summan av talen
 i omfånget `A1:B11`.
@@ -128,7 +128,7 @@ Excel.
 4. Markera därefter omfånget som funktionen ska appliceras på
 5. Avsluta med att trycka på *Enter*.
 
-{{< figure src="/images/excel/stddev.gif" title="Standardavvikelse." >}}
+{{< figure src="/images/2024/excel/stddev.gif" title="Standardavvikelse." >}}
 
 
 ### Avancerade formler
@@ -141,7 +141,7 @@ Du kan även skriva in mer komplicerade funktioner och formler.
     godtyckligt.
 + Du kan använda celler som variabler: se följande exempel.
 
-{{< figure src="/images/excel/advfunc.png" title="Notera att formeln syns i rutan över kalkylbladet." >}}
+{{< figure src="/images/2024/excel/advfunc.png" title="Notera att formeln syns i rutan över kalkylbladet." >}}
 
 I figuren ovan har `=SUM(B1:B11) + A11 * 3 + LOG(16,2)` skrivits in i rutan
 C12.
@@ -159,7 +159,7 @@ En av de viktigaste användningsområdena för kalkylark är att generera grafer
 Genom att skriva in ett antal värden (siffrorna i exemplet nedan genererade med [random.org](https://www.random.org)) kan vi markera dessa och välja
 vilken grafisk presentation (graf) vi vill ha.
 
-{{< figure src="/images/excel/chart.gif" title="Enklare graf." >}}
+{{< figure src="/images/2024/excel/chart.gif" title="Enklare graf." >}}
 
 ### Redigering
 
@@ -174,21 +174,21 @@ Målet med regressionsanalys är att, utifrån observerade data, skapa en funkti
 
 När du klickat på en lämplig graf dyker verktygen *chart tools* upp i övre raden. Klicka på *layout* för att nå alternativet *trendline*.
 
-{{< figure src="/images/excel/trendline-1.PNG" title="Menyalternativet trendlinje syns längst upp till höger." >}}
+{{< figure src="/images/2024/excel/trendline-1.PNG" title="Menyalternativet trendlinje syns längst upp till höger." >}}
 
 Valet *more options* låter dig ställa in avancerade alternativ för trendlinjer.
 Det låter dig exempelvis ställa in hur trendlinjen ska beräknas, visa  \\(R^2\\)-värdet, byta format, etc.
 Du kan även nå detta fönster genom att högerklicka på redan befintliga trendlinjer och välja *format trendline*.
 
-{{< figure src="/images/excel/trendline-2.PNG" title="Inställningar för trendlinjer." >}}
+{{< figure src="/images/2024/excel/trendline-2.PNG" title="Inställningar för trendlinjer." >}}
 
 Tänk på att det viktigaste med grafer är att göra de så tydliga som möjligt!
 Genom att använda färger och andra inställningar kan du förtydliga linjerna och deras förhållande till datan de representerar.
 
-{{< figure src="/images/excel/trendline-3.PNG" title="Exempel på trendlinjer." >}}
+{{< figure src="/images/2024/excel/trendline-3.PNG" title="Exempel på trendlinjer." >}}
 
 Trendlinjer går även att skapa med andra typer av grafer.
 
-{{< figure src="/images/excel/chart-alt.PNG" title="Exempel på formatering." >}}
+{{< figure src="/images/2024/excel/chart-alt.PNG" title="Exempel på formatering." >}}
 
 Ett \\(R^2\\)-värde som är nära 1 visar dess trovärdighet. Eftersom exempelfiguren använder slumpmässiga tal är det låga värdet rimligt.

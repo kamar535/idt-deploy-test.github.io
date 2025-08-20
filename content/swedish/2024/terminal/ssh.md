@@ -35,7 +35,7 @@ Mac OS och Linux, men det finns varianter för Android och iOS också.
 ### OpenSSH (Windows 10/11, Mac OS och Linux)
 
 {{< figure 
-    src="/images/terminalen/SSH/OpenSSH.png" 
+    src="/images/2024/terminalen/SSH/OpenSSH.png" 
     title="OpenSSH." 
 >}}
 
@@ -73,7 +73,7 @@ använda dig av andra klienter. Ett populärt alternativ är [PuTTY](http://www.
 När du öppnar PuTTY så får du upp detta fönster:
 
 {{< figure 
-    src="/images/terminalen/SSH/PuTTY.png" 
+    src="/images/2024/terminalen/SSH/PuTTY.png" 
     title="PuTTY." 
 >}}
 
@@ -111,7 +111,7 @@ Detta låter dig helt enkelt dra-och-släppa för att överföra filer, likt de 
 är van vid.
 
 {{< figure 
-    src="/images/terminalen/SSH/FIlezilla.png" 
+    src="/images/2024/terminalen/SSH/FIlezilla.png" 
     title="FileZilla." 
 >}}
 
@@ -131,6 +131,6 @@ När du är färdig med det du vill göra via en SSH anslutning så avslutar du 
 kommandot `exit`.
 
 {{< figure 
-    src="/images/terminalen/SSH/SSHexit.png" 
+    src="/images/2024/terminalen/SSH/SSHexit.png" 
     title="OpenSSH." 
 >}}

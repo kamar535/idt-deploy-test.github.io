@@ -64,7 +64,7 @@ ersätter `abcd1234` med era användarnamn vid Uppsala universitet.
 
 Person A bjuder in person B (och person C om det finns en tredje) till repot. 
 
-![](/images/git/invite.jpg)
+![](/images/2024/git/invite.jpg)
 
 Person B (och person C) behöver acceptera inbjudan genom att logga in på sitt mejl. 
 

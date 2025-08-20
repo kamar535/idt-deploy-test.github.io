@@ -57,7 +57,7 @@ på att program som är gjorda för Windows och Mac OS inte alltid fungerar på
 Linux.
 
 {{< figure 
-    src="/images/linux/filhanteraren.png"
+    src="/images/2024/linux/filhanteraren.png"
     title="Filhanteraren i Ubuntu."
 >}}
 

@@ -30,7 +30,7 @@ deadlines](../submission-and-deadlines) page.
 
 To the left you find the following menu. 
 
-<img src="/images/studenttjanster/eng_studenttjanster_index.png" style="width:333px"/>
+<img src="/images/2024/studenttjanster/eng_studenttjanster_index.png" style="width:333px"/>
 
 Start by reading through the initial pages marked. Then open the
 assignment page marked with {{% assignmentIcon mandatory %}} in a new tab or window.

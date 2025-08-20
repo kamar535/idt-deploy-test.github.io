@@ -15,7 +15,7 @@ different Swedish universities and college universities.
 To access Ladok, navigate to any of your courses in Studium. Next click on Ladok
 for students (1). 
 
-<img src="/images/studenttjanster/ladok/eng-studium-ladok.png" style="width:444px"/>
+<img src="/images/2024/studenttjanster/ladok/eng-studium-ladok.png" style="width:444px"/>
 
 You can also login to Ladok [here][ladok-login].
 

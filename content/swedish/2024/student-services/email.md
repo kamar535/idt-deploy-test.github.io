@@ -28,7 +28,7 @@ För att komma åt din epost behöver du först aktivera Multifaktorautentiserin
 Du hittar din epost bland annat från student-ingången https://www.uu.se/student (1) 
 vid Uppsala universitet och menyn i [Studium][studium] (2).
 
-![](/images/studenttjanster/schedule/studium-menu-uu-student.png?width=222px)
+![](/images/2024/studenttjanster/schedule/studium-menu-uu-student.png?width=222px)
 
 [studium]: https://studium.uu.se/
 
@@ -39,7 +39,7 @@ vid Uppsala universitet.
 
 [uu-student]: https://www2.uu.se/student/
 
-![](/images/studenttjanster/schedule/uu-student-login.png?width=666px)
+![](/images/2024/studenttjanster/schedule/uu-student-login.png?width=666px)
 
 
 ## Inkorgen 
@@ -47,7 +47,7 @@ vid Uppsala universitet.
 Efter att du loggat in (3) skrollar du ner tills du ser en ruta med ditt namn
 (till exempel Anna Andersson) högst upp (4). 
 
-![](/images/studenttjanster/email/your-name-box.png?width=444px)
+![](/images/2024/studenttjanster/email/your-name-box.png?width=444px)
 
 
 Klicka på [E-post][email] (5) för att komma till din inkorg.
@@ -62,14 +62,14 @@ När du loggar in med MFA skall du ange den sexsiffriga engångskoden som du hit
 Microsoft Authenticator-appen på din mobiltelefon. 
 
 
-![](/images/studenttjanster/email/mfa-step-1.png?width=333px)
+![](/images/2024/studenttjanster/email/mfa-step-1.png?width=333px)
 
 ## Din inkorg
 
 Efter att du loggat in kommer du till din inkorg. 
 
 
-![](/images/studenttjanster/email/inbox.gif)
+![](/images/2024/studenttjanster/email/inbox.gif)
 
 [uu-student]: https://www2.uu.se/student/
 
@@ -84,7 +84,7 @@ dagligen så att meddelanden vidarebefordras. Det gör du i Outlook genom att tr
 Tryck på **Visa alla Outlook-inställningar**, **Vidarebefordrar**, kryssa i **Aktivera vidarebefordran** och
 skriv in din privata e-post du kollar regelbundet för att inte gå miste om viktig mail.
 
-![](/images/studenttjanster/studium/cc_mail.gif)
+![](/images/2024/studenttjanster/studium/cc_mail.gif)
 
 ## Kommunikation med lärare
 

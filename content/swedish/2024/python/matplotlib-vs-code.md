@@ -15,19 +15,19 @@ diagram.
 
 Starta VS Code. 
 
-![](/images/python/vscode/vscode-start.png?width=600px)
+![](/images/2024/python/vscode/vscode-start.png?width=600px)
 
 ## Explorer
 
 Klicka på **Explorer** (1) i VS Code.
 
-![](/images/python/hello/explorer.png?width=600px)
+![](/images/2024/python/hello/explorer.png?width=600px)
 
 ## Öppna katalog 
 
 Klicka på **Open folder** (2).
 
-![](/images/python/hello/open-folder.png?width=600px)
+![](/images/2024/python/hello/open-folder.png?width=600px)
 
 Sök dig fram till en katalog där du vill spara ditt Pythonprogram eller skapa en
 ny katalog. I exemplet nedan öppnades den befintliga katalogen `python` som
@@ -35,18 +35,18 @@ skapades övningen [ett första program](../hello). Under explorer ser du
 katalogen `python` och under den befintliga filen `hello.py` som också skapdes i
 övningen [ett första program](../hello).
 
-![](/images/python/matplotlib/python-folder.png?width=600px)
+![](/images/2024/python/matplotlib/python-folder.png?width=600px)
 
 ## Lägg till fil
 
 När du för musen över **PYTHON** visas några nya ikoner. Den första av dessa
 ikoner ser ut så här och kallas för **New File**. 
 
-![](/images/python/vscode/new-file-icon.png)
+![](/images/2024/python/vscode/new-file-icon.png)
 
 Tryck på **New file** (4).
 
-![](/images/python/matplotlib/new-file.png?width=600px)
+![](/images/2024/python/matplotlib/new-file.png?width=600px)
 
 Ge den nya file namnet `lines.py`. 
 
@@ -59,7 +59,7 @@ innehåller Pythonprogram.
 I Explorer dyker nu den nya filen upp (5) och
 du en ny flik med namnet `lines.py` dyker upp till höger (6).
 
-![](/images/python/matplotlib/lines-py.png?width=600px)
+![](/images/2024/python/matplotlib/lines-py.png?width=600px)
 
 Det är under fliken `lines.py` (6) som du redigerar innehållet i filen
 `lines.py`. Längst ut till vänster visas radnumret för varje rad. För tillfället
@@ -128,11 +128,11 @@ plt.show()
 
 Tryck på **play-knappen** (7) för att köra programmet. 
 
-![](/images/python/matplotlib/play.png?width=600px)
+![](/images/2024/python/matplotlib/play.png?width=600px)
 
 Efter ett tag öppnas ett nytt fönster med det generade diagrammet. 
 
-![](/images/python/matplotlib/fig-1.png?width=600px)
+![](/images/2024/python/matplotlib/fig-1.png?width=600px)
 
 ## Lägg till rutnät
 
@@ -166,7 +166,7 @@ plt.show()
 Stäng fönstret med diagrammet. Efter ett tag öppnas ett nytt fönster med det
 uppdaterade diagrammet med rutnät. 
 
-![](/images/python/matplotlib/fig-2.png?width=600px)
+![](/images/2024/python/matplotlib/fig-2.png?width=600px)
 
 Detta är en viktigt princip när du använder Matplotlib. Om det redan finns ett
 öppet fönster med ett diagram kommer ditt program att ta en paus när det kommer
@@ -212,7 +212,7 @@ plt.show()
 Kör programmet. Glöm inte att stänga fönstret med den tidigare versionen av
 diagrammet. Det nya diagrammet ser ut så här. 
 
-![](/images/python/matplotlib/fig-3.png?width=600px)
+![](/images/2024/python/matplotlib/fig-3.png?width=600px)
 
 Notera att det till vänster om y-axeln nu står `y` och att det under x-axeln nu
 står `x`.
@@ -229,7 +229,7 @@ plt.plot(x, two, color="red")
 Kör programmet. Glöm inte att stänga fönstret med den tidigare versionen av
 diagrammet. Det nya diagrammet ser ut så här. 
 
-![](/images/python/matplotlib/fig-4.png?width=600px)
+![](/images/2024/python/matplotlib/fig-4.png?width=600px)
 
 Notera att linjen nu är röd. 
 
@@ -281,7 +281,7 @@ plt.show()
 Kör programmet. Glöm inte att stänga fönstret med den tidigare versionen av
 diagrammet. Det nya diagrammet ser ut så här. 
 
-![](/images/python/matplotlib/fig-5.png?width=600px)
+![](/images/2024/python/matplotlib/fig-5.png?width=600px)
 
 I det övre vänstra hörnet av diagrammet har nu förklaringen `2x` lagts till för
 den röda linjen. 
@@ -333,7 +333,7 @@ plt.show()
 Kör programmet. Glöm inte att stänga fönstret med den tidigare versionen av
 diagrammet. Det nya diagrammet ser ut så här. 
 
-![](/images/python/matplotlib/fig-6.png?width=600px)
+![](/images/2024/python/matplotlib/fig-6.png?width=600px)
 
 Titeln `En rät linje` har nu lagts till överst i diagrammet. 
 
@@ -399,4 +399,4 @@ plt.show()
 Kör programmet. Glöm inte att stänga fönstret med den tidigare versionen av
 diagrammet. Det nya diagrammet ser ut så här. 
 
-![](/images/python/matplotlib/fig-7.png?width=600px)
+![](/images/2024/python/matplotlib/fig-7.png?width=600px)

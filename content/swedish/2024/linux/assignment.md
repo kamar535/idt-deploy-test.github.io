@@ -28,7 +28,7 @@ mängden använt utrymme i din hemkatalog på Linux-systemet!
 Efter du loggat in på Linux-systemet är det praktiskt att maximera fönstret med
 Linux-skrivbordet. 
 
-![](/images/linux/thinlinc-maximize-window.png)
+![](/images/2024/linux/thinlinc-maximize-window.png)
 
 Klicka på den lilla fyrkanten uppe i det övre högra hörnet av fönstret för att
 maximera fönstret. Skrivbordet för Linux bör nu täcka större delen av din skärm.
@@ -49,7 +49,7 @@ Klicka på menyn näst längst åt höger i filhanterarens övre högra hörn.
 Klicka därefter på `Show Hidden Files` i menyn som dyker upp.
 
 {{< figure 
-    src="/images/linux/linux-file-settings.png" 
+    src="/images/2024/linux/linux-file-settings.png" 
     title="Hitta inställningar för filhanteraren." 
 >}}
 
@@ -59,7 +59,7 @@ Klicka därefter på `Show Hidden Files` i menyn som dyker upp.
 Gå till din hem-katalog i filhanteraren om du inte redan är där. Det ser du antingen i sidfönstret eller på topptiteln.
 
 {{< figure 
-    src="/images/linux/linux-sidebar.png" 
+    src="/images/2024/linux/linux-sidebar.png" 
     title="Hem-katalog är vald." 
 >}}
 
@@ -79,7 +79,7 @@ Använd detta för att ta en bild på fönstret **Properties** du öppnade tidig
 Se till att ditt användarnamn syns.
 
 {{< figure 
-    src="/images/linux/linux-properties.png" 
+    src="/images/2024/linux/linux-properties.png" 
     title="Resulterande bild." 
 >}}
 
@@ -94,7 +94,7 @@ Linux-konto och därför inte finns tillgänglig i Windows.
 Från menyn **Applications** och kategorin **Internet** kan du välja att starta
 någon av webbläsarna **Firefox** eller **Google Chrome**. 
 
-![](/images/linux/applications-internet-menu.png)
+![](/images/2024/linux/applications-internet-menu.png)
 
 Du har nu startat en webbläsare som körs på Linux-systemet. 
 När du laddar upp filer från webläsaren du startat på Linux-systemet kommer du
@@ -105,7 +105,7 @@ komma åt all filer som finns sparade på ditt Linux-konto.
 Från webbläsaren du startade på Linux-systemet loggar du nu in i Studium i genom
 att skriva `https://login.studium.uu.se` i addressfältet. 
 
-![](/images/linux/linux-studium-login.png)
+![](/images/2024/linux/linux-studium-login.png)
 
 ## Lämna in
 

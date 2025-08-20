@@ -31,7 +31,7 @@ Anaconda och Spyder.
 
 Skriv in `anaconda` i sökrutan i aktivitetsfältet (1).
 
-![](/images/python/spyder/search-anaconda-navigator.png)
+![](/images/2024/python/spyder/search-anaconda-navigator.png)
 
 Högst upp bland resultaten skall du nu se  **Anaconda Navigator** (2) och
 kan nu starta detta program. 
@@ -41,34 +41,34 @@ kan nu starta detta program.
 Första gången du startar Anaconda Navigator möts du av följande ruta där du får
 valet att skapa ett Anaconda Cloud account. 
 
-![](/images/python/spyder/cloud-login.png)
+![](/images/2024/python/spyder/cloud-login.png)
 
 Om du inte vill skapa ett Anaconda Cloud account stänger du helt enkelt denna
 ruta. Efter att du stängt denna får du se en lista med program som finns
 tillgängliga i Anaconda Navigator. 
 
-![](/images/python/spyder/navigator.png)
+![](/images/2024/python/spyder/navigator.png)
 
 ## Starta Spyder
 
 Leta reda på Spyder och tryck på **Launch**. 
 
-![](/images/python/spyder/launch-spyder.png)
+![](/images/2024/python/spyder/launch-spyder.png)
 
 Så här ser Spyder ut första gången du startar programmet. 
 
-![](/images/python/spyder/first-look.png)
+![](/images/2024/python/spyder/first-look.png)
 
 ## Känt problem med Spyder på Mac
 
 Om du installerat Anaconda och Spyder på Mac kan det hända att du får ett felmeddelande om
 **Segmentation fault 11** liknande detta när du försöker starta Spyder.
 
-![](/images/python/spyder/segmentation-fault-11.png?width=300px)
+![](/images/2024/python/spyder/segmentation-fault-11.png?width=300px)
 
 I så fall, klicka på kugghjulet upp i högra hörnet. 
 
-![](/images/python/spyder/launch-settings.png?width=300px)
+![](/images/2024/python/spyder/launch-settings.png?width=300px)
 
 Välj sedan **Install specific version** och byt till Spyder version **5.4.3**.
 Förhoppningsvis kan du nu starta Spyder. 
@@ -77,7 +77,7 @@ Förhoppningsvis kan du nu starta Spyder.
 
 Nere till höger i Spyder hittar du **Python Console** vilket är ett Python REPL. 
 
-![](/images/python/spyder/python-console.png)
+![](/images/2024/python/spyder/python-console.png)
 
 I Python Console används `In [1]:` som prompt. Här kan du skriva in Pythonkod en
 rad i taget och resultatet skriv sedan automatiskt ut på en egen rad. 
@@ -87,7 +87,7 @@ Skriv in `1+1` vid prompten och tryck enter. Resultatet `2` visas nu på nästa 
 En ny prompt `In [2]:` visas nu. Skriv in `3*3 + 5` och tryck enter. Resultatet
 `14` visas nu på nästa rad med prefixet `Out[2]`.  
 
-![](/images/python/spyder/console-first-try.png)
+![](/images/2024/python/spyder/console-first-try.png)
 
 Prompten visar en siffra som räknar antal kommandon du utfört. Samma siffra
 används även av det efterföljande resultatprefixet. 

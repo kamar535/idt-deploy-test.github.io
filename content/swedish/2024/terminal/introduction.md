@@ -24,7 +24,7 @@ möjligheter som grafiska gränssnitt helt enkelt inte kan erbjuda.
 Kort sagt är terminalen ett textbaserat gränssnitt, dvs är ett sätt att använda datorn utan mus, fönster och ikoner.
 
 {{< figure 
-    src="/images/terminalen/example.gif" 
+    src="/images/2024/terminalen/example.gif" 
     title="Spara utdata från program till redigerbar textfil med hjälp av kommandon och program från terminalen." 
 >}}
 
@@ -118,7 +118,7 @@ Det finns ett stort antal kommandon inbyggda i de flesta terminaler.
 För att använda `cp`, `mv` och `rm` med hela mappar lägger du till alternativet `-r` (*recursive*): t ex `cp -r Desktop Desktopbk`.
 
 {{< figure 
-    src="/images/terminalen/terminal-sample.gif" 
+    src="/images/2024/terminalen/terminal-sample.gif" 
     title="Kopiera och redigera filer i terminalen." 
 >}}
 
@@ -145,14 +145,14 @@ Om du exempelvis har filen `textfil.txt` som ligger i mappen hemkatalogen för
 användaren `abcd1234`, är den absoluta sökvägen `/home/abcd1234/textfil.txt`.
 
 {{< figure 
-    src="/images/terminalen/file_tree.png" 
+    src="/images/2024/terminalen/file_tree.png" 
     title="Exempel på trädstruktur med absoluta sökvägar." 
 >}}
 
 *Relativa sökvägar* beror istället på, exempelvis, ditt konto eller den
 aktuella katalogen (*working directory*).
 
-{{< figure src="/images/terminalen/relative_path_home.png" title="Exempel på relativa sökvägar: två sätt att nå hemmappen" >}}
+{{< figure src="/images/2024/terminalen/relative_path_home.png" title="Exempel på relativa sökvägar: två sätt att nå hemmappen" >}}
 
 + `./` syftar på den aktuella katalogen. För att exekvera `script.sh` i den aktuella katalogen, kan du skriva `./script.sh`. Sökvägarna `./Desktop/` och `Desktop/` är synonyma.
 + `../` syftar på mappen över den aktuella katalogen. Om den aktuella katalogen är `/mount/usb`, är `../` synonymt med `/mount/`.
@@ -163,7 +163,7 @@ aktuella katalogen (*working directory*).
         synonym med `~/textfil.txt`.
 
 {{< figure 
-    src="/images/terminalen/relative_path.png" 
+    src="/images/2024/terminalen/relative_path.png" 
     title="Exempel på relativa sökvägar: trädstruktur i relation till hemkatalogen." 
 >}}
 
@@ -236,7 +236,7 @@ Du använder det genom att skriva `find <mapp> -<sökalternativ> <term>`.
 För att hitta filen `dokument.txt` i din hemkatalog skriver du `find ~/ -name dokument.txt`.
 
 {{< figure 
-    src="/images/terminalen/find.gif" 
+    src="/images/2024/terminalen/find.gif" 
     title="Kommandot find låter dig hitta filer." 
 >}}
 
@@ -338,7 +338,7 @@ Utdatan från `history` skickas då vidare som indata till `grep`, vilken i sin 
 Du kan använda pipes i längre kedjor. För att räkna antalet processer som genereras av en webbläsare, exempelvis *Chromium* skriver vi `ps -A | grep chromium | wc -l`
 
 {{< figure 
-    src="/images/terminalen/piping.gif" 
+    src="/images/2024/terminalen/piping.gif" 
     title="Piping kedjar in- och utdata." 
 >}}
 
@@ -380,7 +380,7 @@ I terminalen kan du ha flera program igång, enligt vad som kallas för *jobs*.
 ## Automatisk komplettering med Tab
 
 + `<Tab>`-tangenten används för att avsluta ett ord
-    {{< figure src="/images/terminalen/tab.gif" title="Tab-användning." >}}
+    {{< figure src="/images/2024/terminalen/tab.gif" title="Tab-användning." >}}
     + Om du exempelvis vill radera en fil med ett långt namn, som
         `oem-audio-hda-daily-lts-vivid-dkms_0.201606221847-ubuntu14.04.1_all.deb`,
         räcker det att skriva `rm oem` följt av att trycka `<Tab>` för att

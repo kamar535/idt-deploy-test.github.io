@@ -13,7 +13,7 @@ Files and folders form a tree structure. The tree starts at the **root** and eac
 folder forms its own branch in the tree. The tree is usually depicted upside down with the root
 at the top as in this example with the **root** (1) at the top.
 
-![](/images/student-services/files-and-folders/file-tree-example.png?width=300px)
+![](/images/2024/student-services/files-and-folders/file-tree-example.png?width=300px)
 
 In the folder **root** (1) you find the  files **jacob** (2) and **monkey** (3) and the folders
 **buddies** (4) and **animals** (7).

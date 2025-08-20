@@ -7,7 +7,7 @@ assignment: mandatory
 I denna uppgift skall du skriva ett Pythonprogram som med hjälp av
 [NumPy](../numpy) och [Matplotlib](../matplotlib) generar följande diagram. 
 
-![](/images/python/assignment/final-diagram.png?width=600px)
+![](/images/2024/python/assignment/final-diagram.png?width=600px)
 
 I titeln på diagrammet skall du byta ut `abcd1234` mot namnet på ditt
 [studentkonto](/preparation/#studentkonto). 
@@ -41,7 +41,7 @@ plt.show()
 
 När du kör programmet genereras följande diagram. 
 
-![](/images/python/assignment/skeleton-diagram.png)
+![](/images/2024/python/assignment/skeleton-diagram.png)
 
 ## Uppgift
 
@@ -60,7 +60,7 @@ Din uppgift är nu att lägga till:
 När du är klar skall diagrammet se ut så här fast du bytt ut `abcd1234` mot
 namnet på ditt [studentkonto](/preparation/#studentkonto). 
 
-![](/images/python/assignment/final-diagram.png?width=600px)
+![](/images/2024/python/assignment/final-diagram.png?width=600px)
 
 ## Ladda upp programmet i Studium
 

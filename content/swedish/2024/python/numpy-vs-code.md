@@ -14,7 +14,7 @@ beräkningar.
 
 Starta VS Code. 
 
-![](/images/python/vscode/vscode-start.png?width=600px)
+![](/images/2024/python/vscode/vscode-start.png?width=600px)
 
 
 ## Öppna ett Python REPL
@@ -23,11 +23,11 @@ Använd `Ctrl+Shift+P` (Windows och Linux) eller `Cmd+Shift+P`
 (macOS) för att öppna kommandopaletten. Skriv `Start REPL` i sökrutan och välj
 `Python: Start REPL`.
 
-![](/images/python/vscode/start-repl.png?width=600px)
+![](/images/2024/python/vscode/start-repl.png?width=600px)
 
 I den nedre halvan av VS Code öppnas nu en terminal, med ett Python REPL.
 
-![](/images/python/vscode/python-repl.png?width=600px)
+![](/images/2024/python/vscode/python-repl.png?width=600px)
 
 ## Importera NumPy
 
@@ -150,7 +150,7 @@ Talet `pi` finns tillgängligt som `np.pi`.
 
 I intervallet `0` till `2π` ser sinusfunktionen ut så här.
 
-![](/images/python/numpy/sinus.png?width=600px)
+![](/images/2024/python/numpy/sinus.png?width=600px)
 
 På x-axeln finns det markeringar vid `0`, `π/4`, `π/2`, `3π/4`, `π`, ..., `2π`.
 Totalt är det `9` markeringar. Skapa en array med 9 element jämt fördelade inom intervallet `0`, och `2π`.

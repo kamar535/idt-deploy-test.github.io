@@ -16,7 +16,7 @@ Starta [Spyder](../spyder) om du inte redan gjort det.
 
 Nere till höger i Spyder hittar du **Python Console** vilket är ett Python REPL. 
 
-![](/images/python/spyder/python-console.png)
+![](/images/2024/python/spyder/python-console.png)
 
 ## Förenklad prompt 
 
@@ -185,7 +185,7 @@ När du använder NumPy finns talet `pi` tillgängligt som `np.pi`.
 
 I intervallet `0` till `2π` ser sinusfunktionen ut så här.
 
-![](/images/python/numpy/sinus.png?width=600px)
+![](/images/2024/python/numpy/sinus.png?width=600px)
 
 På x-axeln finns det markeringar vid `0`, `π/4`, `π/2`, `3π/4`, `π`, ..., `2π`.
 Totalt är det `9` markeringar. Skapa en array med 9 element jämt fördelade inom intervallet `0`, och `2π`.

@@ -76,7 +76,7 @@ med Windows.
 
 {{< figure 
     width="555px" 
-    src="/images/computer-rooms/hus-10-pc.jpg" 
+    src="/images/2024/2024/computer-rooms/hus-10-pc.jpg" 
     title="Arbetsplats med dator som kör Windows." 
 >}}
 
@@ -84,7 +84,7 @@ med Windows.
 Om datorn är på lyser power-knappen nere i skärmens högra hörn. Väck upp datorn
 genom att röra på mussen eller trycka på någon av tangenterna på tangentbordet.
 
-![](/images/computer-rooms/power-button.png)
+![](/images/2024/computer-rooms/power-button.png)
 
 Om power-knappen inte lyser måste du trycka på power-knappen för
 att slå på datorn. 
@@ -94,7 +94,7 @@ För att logga in i Windows anger du användarnamnet för ditt
 
 [studentkonto]: ../preparation/#studentkonto
 
-![](/images/linux/windows-10-login.jpg?width=444px)
+![](/images/2024/linux/windows-10-login.jpg?width=444px)
 
 ## Campus Gotland
 

@@ -33,13 +33,13 @@ You hand in your assignments from the course page in Studium:
 
 From the Studium course page, click on **Modules** (1). 
 
-<img src="/images/submission-and-deadlines/eng-studium-modules.png"
+<img src="/images/2024/submission-and-deadlines/eng-studium-modules.png"
 style="width: 444px"/> 
 
 Next, scroll down to the **Introduction to IT systems** module (2). 
 
 <img
-src="/images/submission-and-deadlines/eng-it-systems-module.png"
+src="/images/2024/submission-and-deadlines/eng-it-systems-module.png"
 style="width: 777px"/> 
 
 To submit an assignment, for example the Student services assignment, click on

@@ -63,22 +63,22 @@ handledarna. och dina kurskamrater.
 | ![Per][Per]                | Per Jutterström     | IT                            |
 
 
-[Axel]: /images/tutors/Axel.png?classes=tutor
-[Bogdan]: /images/tutors/Bogdan.png?classes=tutor
-[Filip]: /images/tutors/Filip.jpeg?classes=tutor
-[Gholam]: /images/tutors/Gholam.jpg?classes=tutor
-[Kian]: /images/tutors/Kian.png?classes=tutor
-[LeoArnholm]: /images/tutors/LeoArnholm.jpg?classes=tutor
-[LeonPhilip]: /images/tutors/LeonPhilip.jpg?classes=tutor
-[Mustafa]: /images/tutors/Mustafa.jpeg?classes=tutor
-[Mohammad]: /images/tutors/Mohammad.jpg?classes=tutor
-[Nadia]: /images/tutors/female-user-icon.jpeg?classes=tutor
-[Olle]: /images/tutors/Olle.jpg?classes=tutor
-[Pontus]: /images/tutors/Pontus.jpg?classes=tutor
-[Per]: /images/tutors/Per.jpg?classes=tutor
+[Axel]: /images/2024/tutors/Axel.png?classes=tutor
+[Bogdan]: /images/2024/tutors/Bogdan.png?classes=tutor
+[Filip]: /images/2024/tutors/Filip.jpeg?classes=tutor
+[Gholam]: /images/2024/tutors/Gholam.jpg?classes=tutor
+[Kian]: /images/2024/tutors/Kian.png?classes=tutor
+[LeoArnholm]: /images/2024/tutors/LeoArnholm.jpg?classes=tutor
+[LeonPhilip]: /images/2024/tutors/LeonPhilip.jpg?classes=tutor
+[Mustafa]: /images/2024/tutors/Mustafa.jpeg?classes=tutor
+[Mohammad]: /images/2024/tutors/Mohammad.jpg?classes=tutor
+[Nadia]: /images/2024/tutors/female-user-icon.jpeg?classes=tutor
+[Olle]: /images/2024/tutors/Olle.jpg?classes=tutor
+[Pontus]: /images/2024/tutors/Pontus.jpg?classes=tutor
+[Per]: /images/2024/tutors/Per.jpg?classes=tutor
 
 
-[female]: /images/tutors/female-user-icon.jpeg?classes=tutor
-[male]: /images/tutors/male-user-icon.jpeg?classes=tutor
+[female]: /images/2024/tutors/female-user-icon.jpeg?classes=tutor
+[male]: /images/2024/tutors/male-user-icon.jpeg?classes=tutor
 
 -->
