@@ -36,5 +36,7 @@ github.com/kamar535/hugo-theme-relearn-tweaks v0.0.0-20250603132222-1a0635c9eea5
 github.com/kamar535/hugo-theme-relearn-tweaks v0.0.0-20250603132222-1a0635c9eea5/go.mod h1:ifDlxi0QeMsKiUF4FNQRX2RFR0QwyyXlwQ5Bz9xMOg8=
 github.com/kamar535/hugo-theme-relearn-tweaks v0.0.0-20250819081232-8dfb3fd486e7 h1:v3YSP4T7jOZK4e45I26z/rLIDy9AcBdXA2IeY8e05uc=
 github.com/kamar535/hugo-theme-relearn-tweaks v0.0.0-20250819081232-8dfb3fd486e7/go.mod h1:ifDlxi0QeMsKiUF4FNQRX2RFR0QwyyXlwQ5Bz9xMOg8=
+github.com/kamar535/hugo-theme-relearn-tweaks v0.0.0-20250820131617-2f806183b3ef h1:8r/dUShD9wHkR4kDDooGcugmKiCKiEiTUn+d+QXatW0=
+github.com/kamar535/hugo-theme-relearn-tweaks v0.0.0-20250820131617-2f806183b3ef/go.mod h1:ifDlxi0QeMsKiUF4FNQRX2RFR0QwyyXlwQ5Bz9xMOg8=
 github.com/theNewDynamic/gohugo-theme-ananke/v2 v2.12.0 h1:AF1mLNANYQYC9QaFnXh9iZagUj32ImnZIxREP8XeAS0=
 github.com/theNewDynamic/gohugo-theme-ananke/v2 v2.12.0/go.mod h1:+a6uqEsCq0+rqHWY5W5QA3P9DNnxcbyCw+CVEB+Uveg=
